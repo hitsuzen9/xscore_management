@@ -1,0 +1,352 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Payroll",
+  "name": "hlkllmh2ss",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "HR",
+  "name": "hlkligua5v",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Accounts",
+  "name": "ho2k9okd7n",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Assets",
+  "name": "ho2kt4mdrc",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Automation",
+  "name": "ho2k23dtur",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Bulk Transaction",
+  "name": "ho2kepjgpr",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Buying",
+  "name": "ho2kchef9l",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Communication",
+  "name": "ho2k8pbls2",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Contacts",
+  "name": "ho2kvpgr17",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Core",
+  "name": "ho2krbfdpp",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "CRM",
+  "name": "ho2k2pkd7d",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Custom",
+  "name": "ho2k2edpr0",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Desk",
+  "name": "ho2k7f1sr8",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Email",
+  "name": "ho2kqvgtd1",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "ERPNext Integrations",
+  "name": "ho2kd09gud",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Geo",
+  "name": "ho2kgijmoh",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Integrations",
+  "name": "ho2ki1eiq0",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Maintenance",
+  "name": "ho2ksidlg6",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Manufacturing",
+  "name": "ho2ke826e7",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Portal",
+  "name": "ho2kkqdtmf",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Printing",
+  "name": "ho2kvpadjs",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Projects",
+  "name": "ho2kqjlhie",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Quality Management",
+  "name": "ho2kgscnup",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Regional",
+  "name": "ho2kbnp5ps",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Selling",
+  "name": "ho2k2r4ika",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Setup",
+  "name": "ho2k1kqn6e",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Social",
+  "name": "ho2k481998",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Stock",
+  "name": "ho2k602om5",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Subcontracting",
+  "name": "ho2kv3d103",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Support",
+  "name": "ho2kua5hh7",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Telephony",
+  "name": "ho2kls98ea",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Utilities",
+  "name": "ho2kc07t8o",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Website",
+  "name": "ho2k5r9i5t",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Workflow",
+  "name": "ho2k96o04o",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Block Module",
+  "modified": "2024-07-11 07:25:38.996691",
+  "module": "Xscore Management",
+  "name": "ho2k50khvg",
+  "parent": "nam@gmail.com",
+  "parentfield": "block_modules",
+  "parenttype": "User"
+ }
+]

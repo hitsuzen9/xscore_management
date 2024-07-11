@@ -1,0 +1,38 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Territory",
+  "is_group": 1,
+  "modified": "2024-07-10 09:28:34.327672",
+  "name": "All Territories",
+  "old_parent": "",
+  "parent_territory": null,
+  "targets": [],
+  "territory_manager": null,
+  "territory_name": "All Territories"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Territory",
+  "is_group": 0,
+  "modified": "2024-07-10 09:28:34.336656",
+  "name": "Afghanistan",
+  "old_parent": "All Territories",
+  "parent_territory": "All Territories",
+  "targets": [],
+  "territory_manager": null,
+  "territory_name": "Afghanistan"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Territory",
+  "is_group": 0,
+  "modified": "2024-07-10 09:28:34.345032",
+  "name": "Rest Of The World",
+  "old_parent": "All Territories",
+  "parent_territory": "All Territories",
+  "targets": [],
+  "territory_manager": null,
+  "territory_name": "Rest Of The World"
+ }
+]

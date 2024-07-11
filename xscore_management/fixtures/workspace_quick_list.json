@@ -1,0 +1,50 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Workspace Quick List",
+  "document_type": "Interview",
+  "label": "Interviews (This Week)",
+  "modified": "2024-07-10 10:26:32.099082",
+  "name": "pj811q8c62",
+  "parent": "Recruitment",
+  "parentfield": "quick_lists",
+  "parenttype": "Workspace",
+  "quick_list_filter": "{\"scheduled_on\":[\"Timespan\",\"this week\"],\"docstatus\":[\"!=\",\"2\"]}"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workspace Quick List",
+  "document_type": "Employee",
+  "label": "New Hires (This Month)",
+  "modified": "2024-07-10 10:26:32.032371",
+  "name": "pj80clbvsi",
+  "parent": "Employee Lifecycle",
+  "parentfield": "quick_lists",
+  "parenttype": "Workspace",
+  "quick_list_filter": "{\"date_of_joining\":[\"Timespan\",\"this month\"]}"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workspace Quick List",
+  "document_type": "Training Event",
+  "label": "Trainings (This Week)",
+  "modified": "2024-07-10 10:26:32.032371",
+  "name": "pj809211kj",
+  "parent": "Employee Lifecycle",
+  "parentfield": "quick_lists",
+  "parenttype": "Workspace",
+  "quick_list_filter": "{\"start_time\":[\"Timespan\",\"this week\"]}"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workspace Quick List",
+  "document_type": "Employee",
+  "label": "Exits (This Month)",
+  "modified": "2024-07-10 10:26:32.032371",
+  "name": "pj8043eeh5",
+  "parent": "Employee Lifecycle",
+  "parentfield": "quick_lists",
+  "parenttype": "Workspace",
+  "quick_list_filter": "{\"relieving_date\":[\"Timespan\",\"this month\"]}"
+ }
+]

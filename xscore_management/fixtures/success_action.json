@@ -1,0 +1,68 @@
+[
+ {
+  "action_timeout": 7,
+  "docstatus": 0,
+  "doctype": "Success Action",
+  "first_success_message": "Purchase Receipt has been submitted successfully",
+  "message": "Purchase Receipt has been submitted successfully",
+  "modified": "2024-07-10 10:26:20.094284",
+  "name": "Purchase Receipt",
+  "next_actions": "new\nprint\nemail",
+  "ref_doctype": "Purchase Receipt"
+ },
+ {
+  "action_timeout": 7,
+  "docstatus": 0,
+  "doctype": "Success Action",
+  "first_success_message": "Purchase Invoice has been submitted successfully",
+  "message": "Purchase Invoice has been submitted successfully",
+  "modified": "2024-07-10 10:26:20.095647",
+  "name": "Purchase Invoice",
+  "next_actions": "new\nprint\nemail",
+  "ref_doctype": "Purchase Invoice"
+ },
+ {
+  "action_timeout": 7,
+  "docstatus": 0,
+  "doctype": "Success Action",
+  "first_success_message": "Quotation has been submitted successfully",
+  "message": "Quotation has been submitted successfully",
+  "modified": "2024-07-10 10:26:20.097054",
+  "name": "Quotation",
+  "next_actions": "new\nprint\nemail",
+  "ref_doctype": "Quotation"
+ },
+ {
+  "action_timeout": 7,
+  "docstatus": 0,
+  "doctype": "Success Action",
+  "first_success_message": "Sales Order has been submitted successfully",
+  "message": "Sales Order has been submitted successfully",
+  "modified": "2024-07-10 10:26:20.098303",
+  "name": "Sales Order",
+  "next_actions": "new\nprint\nemail",
+  "ref_doctype": "Sales Order"
+ },
+ {
+  "action_timeout": 7,
+  "docstatus": 0,
+  "doctype": "Success Action",
+  "first_success_message": "Delivery Note has been submitted successfully",
+  "message": "Delivery Note has been submitted successfully",
+  "modified": "2024-07-10 10:26:20.099553",
+  "name": "Delivery Note",
+  "next_actions": "new\nprint\nemail",
+  "ref_doctype": "Delivery Note"
+ },
+ {
+  "action_timeout": 7,
+  "docstatus": 0,
+  "doctype": "Success Action",
+  "first_success_message": "Sales Invoice has been submitted successfully",
+  "message": "Sales Invoice has been submitted successfully",
+  "modified": "2024-07-10 10:26:20.100758",
+  "name": "Sales Invoice",
+  "next_actions": "new\nprint\nemail",
+  "ref_doctype": "Sales Invoice"
+ }
+]

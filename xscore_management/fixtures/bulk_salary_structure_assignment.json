@@ -1,0 +1,19 @@
+[
+ {
+  "branch": null,
+  "company": null,
+  "currency": "INR",
+  "department": null,
+  "designation": null,
+  "docstatus": 0,
+  "doctype": "Bulk Salary Structure Assignment",
+  "employment_type": null,
+  "from_date": null,
+  "grade": null,
+  "income_tax_slab": null,
+  "modified": "2024-07-10 10:26:34.736874",
+  "name": "Bulk Salary Structure Assignment",
+  "payroll_payable_account": null,
+  "salary_structure": null
+ }
+]

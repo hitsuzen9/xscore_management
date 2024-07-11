@@ -1,0 +1,13 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "SMS Settings",
+  "message_parameter": null,
+  "modified": "2024-07-10 10:24:36.365135",
+  "name": "SMS Settings",
+  "parameters": [],
+  "receiver_parameter": null,
+  "sms_gateway_url": null,
+  "use_post": 0
+ }
+]

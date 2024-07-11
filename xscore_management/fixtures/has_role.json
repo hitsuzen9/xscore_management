@@ -1,0 +1,7482 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:27.126327",
+  "name": "pi0ve9mvb8",
+  "parent": "permission-manager",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.372679",
+  "name": "pj1h97jrlm",
+  "parent": "Serial No Warranty Expiry",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.380852",
+  "name": "pj1haq5pns",
+  "parent": "Serial No Service Contract Expiry",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.434957",
+  "name": "pj1iul8u3f",
+  "parent": "Serial No Status",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.806175",
+  "name": "pj7uoobi72",
+  "parent": "Employee Leave Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:32.618557",
+  "name": "pi2mekrqlq",
+  "parent": "ToDo",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.050249",
+  "name": "piseunqiti",
+  "parent": "Gross Profit",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.151626",
+  "name": "pisfodsm1f",
+  "parent": "Accounts Receivable",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.081102",
+  "name": "pisevrvon0",
+  "parent": "Accounts Payable",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.062195",
+  "name": "pises3eonj",
+  "parent": "Sales Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.011574",
+  "name": "piseki6kgv",
+  "parent": "Purchase Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.126833",
+  "name": "pisf8dno07",
+  "parent": "Bank Reconciliation Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.220914",
+  "name": "pisgddhkf8",
+  "parent": "Bank Clearance Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.005149",
+  "name": "piuada7t8a",
+  "parent": "Sales Person-wise Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.704775",
+  "name": "pitja612pt",
+  "parent": "Item-wise Purchase History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.252844",
+  "name": "pivuootjta",
+  "parent": "Issued Items Against Work Order",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.216484",
+  "name": "pisgkh2k18",
+  "parent": "Sales Partners Commission",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.766464",
+  "name": "pj7tcgsh9n",
+  "parent": "Employee Birthday",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.790928",
+  "name": "pj7tthihgd",
+  "parent": "Employee Information",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.836061",
+  "name": "pj7u1131qi",
+  "parent": "Monthly Attendance Sheet",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.263862",
+  "name": "pj1gfmqc72",
+  "parent": "Requested Items To Be Transferred",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.054081",
+  "name": "pisektjj7r",
+  "parent": "Item-wise Sales Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.086694",
+  "name": "piuagsl1qf",
+  "parent": "Item-wise Sales History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.662080",
+  "name": "pitsv0top9",
+  "parent": "Project wise Stock Tracking",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Projects User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.247289",
+  "name": "pj1gd11fpm",
+  "parent": "Batch-Wise Balance History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.451608",
+  "name": "pj1ih51c22",
+  "parent": "Item Prices",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.109700",
+  "name": "pisf6hn45f",
+  "parent": "Item-wise Purchase Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.409131",
+  "name": "pj1iqu0upe",
+  "parent": "Itemwise Recommended Reorder Level",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.022074",
+  "name": "piuaqlan50",
+  "parent": "Quotation Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.439226",
+  "name": "pj1i9gbau1",
+  "parent": "Delivery Note Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.075430",
+  "name": "piuap6cmoa",
+  "parent": "Sales Order Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.091110",
+  "name": "piseso36fu",
+  "parent": "Sales Invoice Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.726562",
+  "name": "pitjnuou0e",
+  "parent": "Purchase Order Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.291370",
+  "name": "pj1g88if5j",
+  "parent": "Purchase Receipt Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.167384",
+  "name": "pisf6p7rh5",
+  "parent": "Purchase Invoice Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.001802",
+  "name": "piseqf99md",
+  "parent": "Budget Variance Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:00.981787",
+  "name": "piu91trgso",
+  "parent": "Available Stock for Packing Items",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.147050",
+  "name": "pisfbcu27b",
+  "parent": "Delivered Items To Be Billed",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.173353",
+  "name": "pisfev3onm",
+  "parent": "Received Items To Be Billed",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.430734",
+  "name": "pj1i8dmu6h",
+  "parent": "Material Requests for which Supplier Quotations are not created",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.240869",
+  "name": "pivulja60o",
+  "parent": "Open Work Orders",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.207741",
+  "name": "pivujrkk2o",
+  "parent": "Work Orders in Progress",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.248957",
+  "name": "pivuca51ch",
+  "parent": "Completed Work Orders",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.359777",
+  "name": "pj1hodlp5s",
+  "parent": "Item Shortage Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.316407",
+  "name": "pj1hefe7an",
+  "parent": "Items To Be Requested",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.426756",
+  "name": "pj1it45cei",
+  "parent": "Item-wise Price List Rate",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:00.937355",
+  "name": "piu927l3kj",
+  "parent": "sales-funnel",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:32.586699",
+  "name": "pi2lm02f9v",
+  "parent": "setup-wizard",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.263875",
+  "name": "pit4m3smv1",
+  "parent": "Lead Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.036464",
+  "name": "piua6na9u1",
+  "parent": "Customer Acquisition and Loyalty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.309727",
+  "name": "pj1hbhq3b4",
+  "parent": "Supplier-Wise Sales Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.418391",
+  "name": "pj1ibloroj",
+  "parent": "Stock Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.026109",
+  "name": "piseq5b7gr",
+  "parent": "Payment Period Based On Invoice Date",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.328778",
+  "name": "pj1h3m14v8",
+  "parent": "Stock Ageing",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.388881",
+  "name": "pj1h4sl3bd",
+  "parent": "Stock Projected Qty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:54.993031",
+  "name": "pisd4l38tn",
+  "parent": "General Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:27.169263",
+  "name": "pi0v8eor1k",
+  "parent": "Permitted Documents For User",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.193769",
+  "name": "pisfeblmgu",
+  "parent": "Balance Sheet",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.131936",
+  "name": "pisfamj79c",
+  "parent": "Profit and Loss Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.069987",
+  "name": "piseslpv94",
+  "parent": "Trial Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.042081",
+  "name": "piuaqvfv4b",
+  "parent": "Customer Credit Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.350429",
+  "name": "pj1hp1gc40",
+  "parent": "Stock Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.043033",
+  "name": "pise0alhg6",
+  "parent": "Accounts Receivable Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.198151",
+  "name": "pisfgbrr69",
+  "parent": "Accounts Payable Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:34.307874",
+  "name": "pi370geo9g",
+  "parent": "print-format-builder",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:27.177398",
+  "name": "pi0vk9v5ao",
+  "parent": "Document Share Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.283428",
+  "name": "pj1g71boa9",
+  "parent": "BOM Search",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.178504",
+  "name": "pisfr6f38g",
+  "parent": "Trial Balance for Party",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:32.555738",
+  "name": "pi2ln868m5",
+  "parent": "backups",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:54.997602",
+  "name": "pisd1gnpmr",
+  "parent": "Cash Flow",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.031403",
+  "name": "piua547b6c",
+  "parent": "Inactive Customers",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:54.986726",
+  "name": "pisdgl3e4e",
+  "parent": "Asset Depreciation Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.046697",
+  "name": "pisegvno01",
+  "parent": "Asset Depreciations and Balances",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.232314",
+  "name": "pj1gu0qp5d",
+  "parent": "stock-balance",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.671400",
+  "name": "pitsetjskq",
+  "parent": "Daily Timesheet Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Projects User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.823194",
+  "name": "pj7ura8re5",
+  "parent": "Employees working on a holiday",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.730518",
+  "name": "pitjom4dbb",
+  "parent": "Supplier Quotation Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.202937",
+  "name": "pisgk4pc7a",
+  "parent": "Profitability Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.818812",
+  "name": "pj7u511o7i",
+  "parent": "Vehicle Expenses",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Fleet Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.275735",
+  "name": "pj1gt9q8r7",
+  "parent": "Batch Item Expiry Status",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.801649",
+  "name": "pj7uqeao89",
+  "parent": "Unpaid Expense Claim",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.176190",
+  "name": "pivt31n36s",
+  "parent": "BOM Stock Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.262725",
+  "name": "pivu4l4dri",
+  "parent": "Work Order Stock Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:34.524832",
+  "name": "pj8pdsa4l9",
+  "parent": "Salary Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:34.856092",
+  "name": "pi3crufuba",
+  "parent": "Addresses And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.716879",
+  "name": "pj7tdurdtc",
+  "parent": "team-updates",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Employee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.268495",
+  "name": "pit4qc1g7q",
+  "parent": "Prospects Engaged But Not Converted",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.241722",
+  "name": "pit485d8ai",
+  "parent": "Campaign Efficiency",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.254556",
+  "name": "pit42vpg9l",
+  "parent": "Lead Owner Efficiency",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.271016",
+  "name": "pj1gm2nl66",
+  "parent": "Total Stock Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:12.235799",
+  "name": "pj1qfqkalj",
+  "parent": "Support Hour Distribution",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Support Team"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:14.230461",
+  "name": "pj2ejt1egu",
+  "parent": "Asset Maintenance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.136851",
+  "name": "pisfsgepcs",
+  "parent": "Sales Payment Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.398368",
+  "name": "pj1hngau7l",
+  "parent": "Item Variant Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.304028",
+  "name": "pj1hhaep14",
+  "parent": "Item Price Stock",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.142461",
+  "name": "pisf3jgo50",
+  "parent": "Share Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Administrator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.184279",
+  "name": "pisfbl3955",
+  "parent": "Share Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.341865",
+  "name": "pj1h95pc8s",
+  "parent": "Warehouse wise Item Balance Age and Value",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.414226",
+  "name": "pj1igc1g6p",
+  "parent": "Item Balance (Simple)",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.845774",
+  "name": "pj7unl37cv",
+  "parent": "Employee Advance Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:27.164204",
+  "name": "pi0vfd9bg3",
+  "parent": "Transaction Log Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Administrator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.015979",
+  "name": "piseo1b4rd",
+  "parent": "Consolidated Financial Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.229510",
+  "name": "pivusu8hjl",
+  "parent": "BOM Stock Calculated",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.070331",
+  "name": "piuabfa15b",
+  "parent": "Customers Without Any Sales Transactions",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.220293",
+  "name": "pivuudog9p",
+  "parent": "BOM Variance Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.026883",
+  "name": "piua5b1shu",
+  "parent": "Address And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.797532",
+  "name": "pj7ten0giq",
+  "parent": "Daily Work Summary Replies",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.030589",
+  "name": "piseo1bbkk",
+  "parent": "TDS Computation Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.162336",
+  "name": "pisf8u23og",
+  "parent": "Tax Withholding Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.246197",
+  "name": "pit46krqm3",
+  "parent": "Lead Conversion Time",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:15.148617",
+  "name": "pj2nqphg1e",
+  "parent": "IRS 1099",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.066150",
+  "name": "piuado0ldp",
+  "parent": "Sales Person Commission Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:00.986489",
+  "name": "piu98lm2uk",
+  "parent": "Sales Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.713166",
+  "name": "pitj2ipaa5",
+  "parent": "Purchase Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.346278",
+  "name": "pj1hnebpl3",
+  "parent": "Stock Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.245004",
+  "name": "pivu8dcs2d",
+  "parent": "Production Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:16.238142",
+  "name": "pj32g98132",
+  "parent": "Review",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.000146",
+  "name": "piua11m3ab",
+  "parent": "Pending SO Items For Purchase Request",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.007075",
+  "name": "pisemfa4lv",
+  "parent": "Trial Balance (Simple)",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.039107",
+  "name": "pise10kp18",
+  "parent": "Customer Ledger Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.120415",
+  "name": "pisfgqoiuv",
+  "parent": "Supplier Ledger Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.232081",
+  "name": "pit40ua7kl",
+  "parent": "Lost Opportunity",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.034895",
+  "name": "pisedi9ojt",
+  "parent": "Gross and Net Profit Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.354410",
+  "name": "pj1h7rcfnc",
+  "parent": "Product Bundle Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.676800",
+  "name": "pitsfqk72r",
+  "parent": "Employee Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Projects User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.686217",
+  "name": "pits6t1nqa",
+  "parent": "Project Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Projects User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.014988",
+  "name": "piua48crab",
+  "parent": "Sales Partner Commission Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.091656",
+  "name": "piuac4s9l8",
+  "parent": "Sales Partner Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.010302",
+  "name": "piua955qfb",
+  "parent": "Sales Partner Target Variance based on Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.081632",
+  "name": "piuabq3ik1",
+  "parent": "Sales Person Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:00.991308",
+  "name": "piu944qmi7",
+  "parent": "Territory Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:34.528799",
+  "name": "pj8pjomq70",
+  "parent": "Bank Remittance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.700619",
+  "name": "pitj2cion2",
+  "parent": "Procurement Tracker",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.066051",
+  "name": "piseehdlfq",
+  "parent": "Inactive Sales Items",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.689436",
+  "name": "pitial30fu",
+  "parent": "Subcontracted Item To Be Received",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.693809",
+  "name": "piti71dfqb",
+  "parent": "Subcontracted Raw Materials To Be Transferred",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.194518",
+  "name": "pivt1psgtr",
+  "parent": "BOM Explorer",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.051501",
+  "name": "piuae82cnc",
+  "parent": "Customer-wise Item Price",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.299469",
+  "name": "pj1gm7jvta",
+  "parent": "Delayed Item Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.368204",
+  "name": "pj1heg2nuu",
+  "parent": "Delayed Order Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:32.596860",
+  "name": "pi2l4mi9gq",
+  "parent": "user-profile",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "All"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.134130",
+  "name": "pivtepmdr0",
+  "parent": "bom-comparison-tool",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.841258",
+  "name": "pj7uen1609",
+  "parent": "Employee Leave Balance Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:14.234560",
+  "name": "pj2eka68ca",
+  "parent": "Fixed Asset Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.279657",
+  "name": "pj1gsmgif5",
+  "parent": "Stock and Account Value Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:00.952328",
+  "name": "piu9rf372b",
+  "parent": "point-of-sale",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.047269",
+  "name": "piuamq3fgf",
+  "parent": "Territory-wise Sales",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.171508",
+  "name": "pivtfm4ijn",
+  "parent": "BOM Operations Time",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.180509",
+  "name": "pivt2tgco3",
+  "parent": "Production Planning Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:28.720209",
+  "name": "pi1fa4vvnt",
+  "parent": "Website Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.233391",
+  "name": "pivu9tn9bv",
+  "parent": "Work Order Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.189767",
+  "name": "pivt82lsun",
+  "parent": "Job Card Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.184986",
+  "name": "pivt63ebpo",
+  "parent": "Downtime Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.214611",
+  "name": "pivuok714i",
+  "parent": "Quality Inspection Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Quality Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.722090",
+  "name": "pitjgtaak9",
+  "parent": "Purchase Order Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.681945",
+  "name": "pits80qgn1",
+  "parent": "Project Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Projects User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.814459",
+  "name": "pj7uk08hli",
+  "parent": "Employee Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.810443",
+  "name": "pj7u8vclri",
+  "parent": "Recruitment Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.257840",
+  "name": "pivuu6h2nn",
+  "parent": "Exponential Smoothing Forecasting",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.061453",
+  "name": "piuao65u66",
+  "parent": "Sales Order Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:34.501041",
+  "name": "pj8pcc2r6s",
+  "parent": "Income Tax Deductions",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:34.510047",
+  "name": "pj8pegc92c",
+  "parent": "Salary Payments via ECS",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:34.505794",
+  "name": "pj8pgb2o0k",
+  "parent": "Salary Payments Based On Payment Mode",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.717213",
+  "name": "pitjdiqdp2",
+  "parent": "Requested Items to Order and Receive",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.295550",
+  "name": "pj1gk6ve5u",
+  "parent": "Stock Qty vs Serial No Count",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:12.644871",
+  "name": "pj1usd3e6i",
+  "parent": "YouTube Interactions",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "All"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:12.258063",
+  "name": "pj1qh03md3",
+  "parent": "First Response Time for Issues",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Support Team"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.273464",
+  "name": "pit4er1uq0",
+  "parent": "First Response Time for Opportunity",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.097647",
+  "name": "pise67ht6o",
+  "parent": "POS Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:12.248844",
+  "name": "pj1qdg4pbb",
+  "parent": "Issue Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Support Team"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:12.243755",
+  "name": "pj1qt4hebf",
+  "parent": "Issue Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Support Team"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.217241",
+  "name": "pj1g1ik8ns",
+  "parent": "warehouse-capacity-summary",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.202704",
+  "name": "pivuqf0eva",
+  "parent": "Production Plan Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.198544",
+  "name": "pivtrccpe3",
+  "parent": "Cost of Poor Quality Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.667006",
+  "name": "pits86oaef",
+  "parent": "Delayed Tasks Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Projects User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.074211",
+  "name": "piseatgtm6",
+  "parent": "Billed Items To Be Received",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.777499",
+  "name": "pj7tqe00sl",
+  "parent": "Employee Hours Utilization Based On Timesheet",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.772157",
+  "name": "pj7t9sdd36",
+  "parent": "Project Profitability",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.422471",
+  "name": "pj1ijodmk0",
+  "parent": "Serial No Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.364131",
+  "name": "pj1hifmj20",
+  "parent": "Incorrect Balance Qty After Transaction",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.251516",
+  "name": "pj1gl8r1qn",
+  "parent": "Incorrect Serial No Valuation",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.736654",
+  "name": "pj7tbmbcq2",
+  "parent": "organizational-chart",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.709124",
+  "name": "pitjs3gt1h",
+  "parent": "Subcontract Order Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.287267",
+  "name": "pj1gop0a7h",
+  "parent": "COGS By Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.256046",
+  "name": "pj1gnm3if3",
+  "parent": "Incorrect Stock Value Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.259465",
+  "name": "pit4ve7sv6",
+  "parent": "Sales Pipeline Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:34.340262",
+  "name": "pi37smvnp0",
+  "parent": "print-format-builder-beta",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.236739",
+  "name": "pit44vvmuk",
+  "parent": "Opportunity Summary by Sales Stage",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.166789",
+  "name": "pivt9iha7p",
+  "parent": "Process Loss Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.225512",
+  "name": "pivurcf1g5",
+  "parent": "Work Order Consumed Materials",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.827464",
+  "name": "pj7ut1cedo",
+  "parent": "Employee Exits",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.189009",
+  "name": "pisf1n9kbg",
+  "parent": "Deferred Revenue and Expense",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.384942",
+  "name": "pj1hk0gi4u",
+  "parent": "Stock Ledger Invariant Check",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.056748",
+  "name": "piua7iotu8",
+  "parent": "Payment Terms Status for Sales Order",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:34.517239",
+  "name": "pj8pbumaqi",
+  "parent": "Income Tax Computation",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.447644",
+  "name": "pj1ijhc000",
+  "parent": "FIFO Queue vs Qty After Transaction Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Administrator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.020613",
+  "name": "pisech36qd",
+  "parent": "Payment Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:27.173529",
+  "name": "pi0v3ubnb1",
+  "parent": "Database Storage Usage By Tables",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.337427",
+  "name": "pj1h8uvm09",
+  "parent": "Warehouse Wise Stock Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:30.772458",
+  "name": "pi23k43ftd",
+  "parent": "Audit System Hooks",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.781447",
+  "name": "pj7thjqiva",
+  "parent": "Appraisal Overview",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:29.464754",
+  "name": "pi1mt37v7p",
+  "parent": "workflow-builder",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.058166",
+  "name": "pisej14g71",
+  "parent": "Voucher-wise Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.208878",
+  "name": "pisghfnprl",
+  "parent": "Financial Ratios",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.404277",
+  "name": "pj1i4j7l2c",
+  "parent": "Serial and Batch Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:14.239030",
+  "name": "pj2euecdka",
+  "parent": "Asset Activity",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.157221",
+  "name": "pisf2f8m2l",
+  "parent": "General and Payment Ledger Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.260096",
+  "name": "pj1gd25aik",
+  "parent": "Reserved Stock",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.831585",
+  "name": "pj7usf7r1s",
+  "parent": "Shift Attendance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.151223",
+  "name": "pivtufd9qv",
+  "parent": "visual-plant-floor",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:00.995966",
+  "name": "piu9prv44n",
+  "parent": "Lost Quotations",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.785913",
+  "name": "pj7too8790",
+  "parent": "Leave Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.376979",
+  "name": "pj1h22073a",
+  "parent": "Available Batch Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi41n6t1p3",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Administrator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:37.016303",
+  "name": "pi42nmmn7i",
+  "parent": "Guest",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Guest"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.165474",
+  "name": "pj494n1qul",
+  "parent": "Inventory",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.169550",
+  "name": "pj49d9135e",
+  "parent": "Manufacturing",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.173056",
+  "name": "pj49csbits",
+  "parent": "Accounts",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.176469",
+  "name": "pj49lhr123",
+  "parent": "Sales",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.180015",
+  "name": "pj49jdoloh",
+  "parent": "Purchase",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:46.336419",
+  "name": "pjcf4nomt0",
+  "parent": "HR",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "hnqfcii4e4",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.380852",
+  "name": "pj1hm2nd1e",
+  "parent": "Serial No Service Contract Expiry",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.372679",
+  "name": "pj1hdvr26h",
+  "parent": "Serial No Warranty Expiry",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.434957",
+  "name": "pj1ioql56m",
+  "parent": "Serial No Status",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.806175",
+  "name": "pj7ukmcsd0",
+  "parent": "Employee Leave Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.050249",
+  "name": "pisecer1oe",
+  "parent": "Gross Profit",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.151626",
+  "name": "pisf1828fp",
+  "parent": "Accounts Receivable",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.081102",
+  "name": "piseabm5ke",
+  "parent": "Accounts Payable",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.062195",
+  "name": "pisefbkbsj",
+  "parent": "Sales Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.011574",
+  "name": "pise8qmsl3",
+  "parent": "Purchase Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.126833",
+  "name": "pisfl7p4bc",
+  "parent": "Bank Reconciliation Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.220914",
+  "name": "pisg9jd8to",
+  "parent": "Bank Clearance Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.005149",
+  "name": "piua2qf72r",
+  "parent": "Sales Person-wise Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.704775",
+  "name": "pitj3rjfcj",
+  "parent": "Item-wise Purchase History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.252844",
+  "name": "pivu5p67jl",
+  "parent": "Issued Items Against Work Order",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.216484",
+  "name": "pisg91k859",
+  "parent": "Sales Partners Commission",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.766464",
+  "name": "pj7t03rmbq",
+  "parent": "Employee Birthday",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.790928",
+  "name": "pj7t2to3rc",
+  "parent": "Employee Information",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.836061",
+  "name": "pj7unrh5jh",
+  "parent": "Monthly Attendance Sheet",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.263862",
+  "name": "pj1gnhhaev",
+  "parent": "Requested Items To Be Transferred",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.054081",
+  "name": "pisek5mf3v",
+  "parent": "Item-wise Sales Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.086694",
+  "name": "piua7ont7n",
+  "parent": "Item-wise Sales History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.662080",
+  "name": "pits0qn9jv",
+  "parent": "Project wise Stock Tracking",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Projects Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.247289",
+  "name": "pj1gpk68mv",
+  "parent": "Batch-Wise Balance History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.451608",
+  "name": "pj1ieq3klu",
+  "parent": "Item Prices",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.109700",
+  "name": "pisf5vlh35",
+  "parent": "Item-wise Purchase Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.409131",
+  "name": "pj1i7t6toq",
+  "parent": "Itemwise Recommended Reorder Level",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.022074",
+  "name": "piuapv6o5o",
+  "parent": "Quotation Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.439226",
+  "name": "pj1idk6icj",
+  "parent": "Delivery Note Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.075430",
+  "name": "piua43qig6",
+  "parent": "Sales Order Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.091110",
+  "name": "pise81v6h8",
+  "parent": "Sales Invoice Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.726562",
+  "name": "pitjqv0lgb",
+  "parent": "Purchase Order Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.291370",
+  "name": "pj1gvv45jg",
+  "parent": "Purchase Receipt Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.167384",
+  "name": "pisfhg8k9q",
+  "parent": "Purchase Invoice Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.001802",
+  "name": "pisebgv11r",
+  "parent": "Budget Variance Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:00.981787",
+  "name": "piu94lhosa",
+  "parent": "Available Stock for Packing Items",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.147050",
+  "name": "pisfa64d05",
+  "parent": "Delivered Items To Be Billed",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.173353",
+  "name": "pisfun42og",
+  "parent": "Received Items To Be Billed",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.430734",
+  "name": "pj1ijs6s0o",
+  "parent": "Material Requests for which Supplier Quotations are not created",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.240869",
+  "name": "pivu2ud7a6",
+  "parent": "Open Work Orders",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.207741",
+  "name": "pivu403tk0",
+  "parent": "Work Orders in Progress",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.248957",
+  "name": "pivu1oqv9s",
+  "parent": "Completed Work Orders",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.359777",
+  "name": "pj1h7ts8f2",
+  "parent": "Item Shortage Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.316407",
+  "name": "pj1h8mj4lv",
+  "parent": "Items To Be Requested",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.426756",
+  "name": "pj1ijfei9e",
+  "parent": "Item-wise Price List Rate",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.263875",
+  "name": "pit4ggq6nh",
+  "parent": "Lead Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.036464",
+  "name": "piua47e08c",
+  "parent": "Customer Acquisition and Loyalty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.309727",
+  "name": "pj1hh0tmlr",
+  "parent": "Supplier-Wise Sales Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.418391",
+  "name": "pj1ip4ksl8",
+  "parent": "Stock Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.026109",
+  "name": "pisefd8mfl",
+  "parent": "Payment Period Based On Invoice Date",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.328778",
+  "name": "pj1hr0oirr",
+  "parent": "Stock Ageing",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.388881",
+  "name": "pj1hvoqve3",
+  "parent": "Stock Projected Qty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:54.993031",
+  "name": "pisd4i1cmm",
+  "parent": "General Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.193769",
+  "name": "pisf3n8npr",
+  "parent": "Balance Sheet",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.131936",
+  "name": "pisff4ud09",
+  "parent": "Profit and Loss Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.069987",
+  "name": "piseiug9ec",
+  "parent": "Trial Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.042081",
+  "name": "piuaehtgrf",
+  "parent": "Customer Credit Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.350429",
+  "name": "pj1h3eqvnt",
+  "parent": "Stock Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.043033",
+  "name": "pisegba4vc",
+  "parent": "Accounts Receivable Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.198151",
+  "name": "pisf1961so",
+  "parent": "Accounts Payable Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.283428",
+  "name": "pj1gojfb3n",
+  "parent": "BOM Search",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.178504",
+  "name": "pisfhlkujg",
+  "parent": "Trial Balance for Party",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:54.997602",
+  "name": "pisdl3alue",
+  "parent": "Cash Flow",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.031403",
+  "name": "piuakesqlo",
+  "parent": "Inactive Customers",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.671400",
+  "name": "pitsd1q05b",
+  "parent": "Daily Timesheet Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.823194",
+  "name": "pj7urg117q",
+  "parent": "Employees working on a holiday",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.730518",
+  "name": "pitjnua83k",
+  "parent": "Supplier Quotation Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.202937",
+  "name": "pisg0in8kb",
+  "parent": "Profitability Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.275735",
+  "name": "pj1gofbdev",
+  "parent": "Batch Item Expiry Status",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.801649",
+  "name": "pj7u8vcbnb",
+  "parent": "Unpaid Expense Claim",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Expense Approver"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.176190",
+  "name": "pivtvflo12",
+  "parent": "BOM Stock Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.262725",
+  "name": "pivu1guels",
+  "parent": "Work Order Stock Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:34.524832",
+  "name": "pj8pjkktu5",
+  "parent": "Salary Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:34.856092",
+  "name": "pi3cp95rs1",
+  "parent": "Addresses And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.716879",
+  "name": "pj7t3ccpo6",
+  "parent": "team-updates",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.268495",
+  "name": "pit4p6c27d",
+  "parent": "Prospects Engaged But Not Converted",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.241722",
+  "name": "pit41lt6tr",
+  "parent": "Campaign Efficiency",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.254556",
+  "name": "pit4u5l4st",
+  "parent": "Lead Owner Efficiency",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.271016",
+  "name": "pj1gr8ii2f",
+  "parent": "Total Stock Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:12.235799",
+  "name": "pj1qgoiagv",
+  "parent": "Support Hour Distribution",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.136851",
+  "name": "pisflh29o1",
+  "parent": "Sales Payment Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.398368",
+  "name": "pj1h5bcq85",
+  "parent": "Item Variant Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.304028",
+  "name": "pj1h7dloko",
+  "parent": "Item Price Stock",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.142461",
+  "name": "pisfhg0rec",
+  "parent": "Share Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.341865",
+  "name": "pj1hvftusn",
+  "parent": "Warehouse wise Item Balance Age and Value",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.414226",
+  "name": "pj1ihrvc2v",
+  "parent": "Item Balance (Simple)",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.845774",
+  "name": "pj7umcg0fr",
+  "parent": "Employee Advance Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Expense Approver"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:27.164204",
+  "name": "pi0v17ejb7",
+  "parent": "Transaction Log Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.015979",
+  "name": "pise4ht0m9",
+  "parent": "Consolidated Financial Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.229510",
+  "name": "pivua8fl13",
+  "parent": "BOM Stock Calculated",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.070331",
+  "name": "piuahsi99a",
+  "parent": "Customers Without Any Sales Transactions",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.220293",
+  "name": "pivuk29gt3",
+  "parent": "BOM Variance Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.026883",
+  "name": "piuaub8koo",
+  "parent": "Address And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.797532",
+  "name": "pj7t1ajcge",
+  "parent": "Daily Work Summary Replies",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.030589",
+  "name": "pise0ohun7",
+  "parent": "TDS Computation Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.162336",
+  "name": "pisfetk0fs",
+  "parent": "Tax Withholding Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.246197",
+  "name": "pit4c0ell0",
+  "parent": "Lead Conversion Time",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:15.148617",
+  "name": "pj2npne93c",
+  "parent": "IRS 1099",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.066150",
+  "name": "piuav9n0h2",
+  "parent": "Sales Person Commission Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:00.986489",
+  "name": "piu9416dcb",
+  "parent": "Sales Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.713166",
+  "name": "pitj9qocvo",
+  "parent": "Purchase Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.346278",
+  "name": "pj1hq0hnbp",
+  "parent": "Stock Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.245004",
+  "name": "pivufic512",
+  "parent": "Production Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:16.238142",
+  "name": "pj32bkk9ja",
+  "parent": "Review",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Quality Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.000146",
+  "name": "piuaa6tkd2",
+  "parent": "Pending SO Items For Purchase Request",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.007075",
+  "name": "piseevm766",
+  "parent": "Trial Balance (Simple)",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.039107",
+  "name": "pise14gbau",
+  "parent": "Customer Ledger Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.120415",
+  "name": "pisf9pk3pc",
+  "parent": "Supplier Ledger Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.232081",
+  "name": "pit4rvvj4e",
+  "parent": "Lost Opportunity",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.034895",
+  "name": "pises02n97",
+  "parent": "Gross and Net Profit Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.676800",
+  "name": "pitsd6mthl",
+  "parent": "Employee Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.686217",
+  "name": "pits3dfv4q",
+  "parent": "Project Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.014988",
+  "name": "piua57vvfm",
+  "parent": "Sales Partner Commission Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.091656",
+  "name": "piuaulo20d",
+  "parent": "Sales Partner Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.010302",
+  "name": "piuaumi71v",
+  "parent": "Sales Partner Target Variance based on Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.081632",
+  "name": "piuaetiv2e",
+  "parent": "Sales Person Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:00.991308",
+  "name": "piu92l6261",
+  "parent": "Territory Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.700619",
+  "name": "pitjg30ttn",
+  "parent": "Procurement Tracker",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.066051",
+  "name": "piserad5t7",
+  "parent": "Inactive Sales Items",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.689436",
+  "name": "piti9lbeij",
+  "parent": "Subcontracted Item To Be Received",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.693809",
+  "name": "pitihparvn",
+  "parent": "Subcontracted Raw Materials To Be Transferred",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.194518",
+  "name": "pivt3cseau",
+  "parent": "BOM Explorer",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.051501",
+  "name": "piua1t9ivh",
+  "parent": "Customer-wise Item Price",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.299469",
+  "name": "pj1gdfludm",
+  "parent": "Delayed Item Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.368204",
+  "name": "pj1hkfespa",
+  "parent": "Delayed Order Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.134130",
+  "name": "pivt3sakqi",
+  "parent": "bom-comparison-tool",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.841258",
+  "name": "pj7ugekt3b",
+  "parent": "Employee Leave Balance Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:14.234560",
+  "name": "pj2ev3shoh",
+  "parent": "Fixed Asset Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Quality Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.279657",
+  "name": "pj1gab9tco",
+  "parent": "Stock and Account Value Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:00.952328",
+  "name": "piu9sr4gpr",
+  "parent": "point-of-sale",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.047269",
+  "name": "piuajsli4l",
+  "parent": "Territory-wise Sales",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.171508",
+  "name": "pivtprakqu",
+  "parent": "BOM Operations Time",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.180509",
+  "name": "pivtdsn3qa",
+  "parent": "Production Planning Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:28.720209",
+  "name": "pi1fit6rdm",
+  "parent": "Website Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Website Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.233391",
+  "name": "pivusednft",
+  "parent": "Work Order Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.189767",
+  "name": "pivtuj42mp",
+  "parent": "Job Card Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.184986",
+  "name": "pivtmh25ng",
+  "parent": "Downtime Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.214611",
+  "name": "pivu0pc5n4",
+  "parent": "Quality Inspection Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.722090",
+  "name": "pitjdr9egn",
+  "parent": "Purchase Order Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.681945",
+  "name": "pits3e3oma",
+  "parent": "Project Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Projects Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.814459",
+  "name": "pj7umjv459",
+  "parent": "Employee Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.810443",
+  "name": "pj7u1pkrv4",
+  "parent": "Recruitment Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.257840",
+  "name": "pivujavpur",
+  "parent": "Exponential Smoothing Forecasting",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.061453",
+  "name": "piuavn6v1i",
+  "parent": "Sales Order Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:34.501041",
+  "name": "pj8p8jcsdf",
+  "parent": "Income Tax Deductions",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:34.510047",
+  "name": "pj8pjo4tnn",
+  "parent": "Salary Payments via ECS",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:34.505794",
+  "name": "pj8p520pd1",
+  "parent": "Salary Payments Based On Payment Mode",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.717213",
+  "name": "pitjosheme",
+  "parent": "Requested Items to Order and Receive",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.295550",
+  "name": "pj1gpn6jrq",
+  "parent": "Stock Qty vs Serial No Count",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:12.644871",
+  "name": "pj1uqd89s1",
+  "parent": "YouTube Interactions",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.273464",
+  "name": "pit4fglrah",
+  "parent": "First Response Time for Opportunity",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.097647",
+  "name": "pisef2k15l",
+  "parent": "POS Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.217241",
+  "name": "pj1gv2j8te",
+  "parent": "warehouse-capacity-summary",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.198544",
+  "name": "pivta89jel",
+  "parent": "Cost of Poor Quality Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.667006",
+  "name": "pits44q1od",
+  "parent": "Delayed Tasks Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Projects Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.074211",
+  "name": "pisesj6di0",
+  "parent": "Billed Items To Be Received",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.777499",
+  "name": "pj7tm62ta9",
+  "parent": "Employee Hours Utilization Based On Timesheet",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.772157",
+  "name": "pj7tc0q1rh",
+  "parent": "Project Profitability",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.422471",
+  "name": "pj1i3k1v62",
+  "parent": "Serial No Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.364131",
+  "name": "pj1hdncfn2",
+  "parent": "Incorrect Balance Qty After Transaction",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.251516",
+  "name": "pj1gjjpslc",
+  "parent": "Incorrect Serial No Valuation",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.736654",
+  "name": "pj7tn3osu9",
+  "parent": "organizational-chart",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.709124",
+  "name": "pitjv87p8h",
+  "parent": "Subcontract Order Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.287267",
+  "name": "pj1g8idni7",
+  "parent": "COGS By Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.256046",
+  "name": "pj1gs0hgvk",
+  "parent": "Incorrect Stock Value Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.259465",
+  "name": "pit4pahl7q",
+  "parent": "Sales Pipeline Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.236739",
+  "name": "pit4m9gbc2",
+  "parent": "Opportunity Summary by Sales Stage",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.225512",
+  "name": "pivupnvi8v",
+  "parent": "Work Order Consumed Materials",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.827464",
+  "name": "pj7u0at2e0",
+  "parent": "Employee Exits",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.189009",
+  "name": "pisfk1fut4",
+  "parent": "Deferred Revenue and Expense",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.056748",
+  "name": "piua4hbpku",
+  "parent": "Payment Terms Status for Sales Order",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:34.517239",
+  "name": "pj8pm12dve",
+  "parent": "Income Tax Computation",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.020613",
+  "name": "pise5pnals",
+  "parent": "Payment Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.337427",
+  "name": "pj1hnc13jg",
+  "parent": "Warehouse Wise Stock Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.781447",
+  "name": "pj7t7c4a74",
+  "parent": "Appraisal Overview",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.058166",
+  "name": "pise2jpr8h",
+  "parent": "Voucher-wise Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.208878",
+  "name": "pisgrs62vm",
+  "parent": "Financial Ratios",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.404277",
+  "name": "pj1id2h5cl",
+  "parent": "Serial and Batch Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:14.239030",
+  "name": "pj2ealfv5c",
+  "parent": "Asset Activity",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.157221",
+  "name": "pisf0sihiv",
+  "parent": "General and Payment Ledger Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.831585",
+  "name": "pj7ujr0b63",
+  "parent": "Shift Attendance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.151223",
+  "name": "pivtd2lgb8",
+  "parent": "visual-plant-floor",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:00.995966",
+  "name": "piu9kcsdgb",
+  "parent": "Lost Quotations",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.785913",
+  "name": "pj7tfd1phq",
+  "parent": "Leave Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.376979",
+  "name": "pj1hp1vike",
+  "parent": "Available Batch Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5enhmlsf",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Academics User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi41kcqo2d",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.165651",
+  "name": "pj491s53e9",
+  "parent": "Inventory",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.169710",
+  "name": "pj49i98e29",
+  "parent": "Manufacturing",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.173234",
+  "name": "pj49cn191s",
+  "parent": "Accounts",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.176642",
+  "name": "pj4970r876",
+  "parent": "Sales",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.180166",
+  "name": "pj49gjq7gg",
+  "parent": "Purchase",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:46.336594",
+  "name": "pjcfkfhr62",
+  "parent": "HR",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.434957",
+  "name": "pj1imkqkt8",
+  "parent": "Serial No Status",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.372679",
+  "name": "pj1hm8otqp",
+  "parent": "Serial No Warranty Expiry",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.380852",
+  "name": "pj1hmo5829",
+  "parent": "Serial No Service Contract Expiry",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.806175",
+  "name": "pj7u0q6hlg",
+  "parent": "Employee Leave Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.081102",
+  "name": "pisejp126v",
+  "parent": "Accounts Payable",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.011574",
+  "name": "piseic5fpm",
+  "parent": "Purchase Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.126833",
+  "name": "pisfhga0tu",
+  "parent": "Bank Reconciliation Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.220914",
+  "name": "pisg0jnkql",
+  "parent": "Bank Clearance Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.005149",
+  "name": "piua9res1n",
+  "parent": "Sales Person-wise Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.704775",
+  "name": "pitjl4qbil",
+  "parent": "Item-wise Purchase History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.766464",
+  "name": "pj7t3ab378",
+  "parent": "Employee Birthday",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.836061",
+  "name": "pj7uvc365i",
+  "parent": "Monthly Attendance Sheet",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.263862",
+  "name": "pj1g9f7hdb",
+  "parent": "Requested Items To Be Transferred",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.086694",
+  "name": "piuag56md2",
+  "parent": "Item-wise Sales History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.109700",
+  "name": "pisfvmabgi",
+  "parent": "Item-wise Purchase Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.409131",
+  "name": "pj1imveoac",
+  "parent": "Itemwise Recommended Reorder Level",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.022074",
+  "name": "piua6mu2lt",
+  "parent": "Quotation Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.439226",
+  "name": "pj1il7h1po",
+  "parent": "Delivery Note Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.075430",
+  "name": "piuajur2f5",
+  "parent": "Sales Order Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.726562",
+  "name": "pitjb196jo",
+  "parent": "Purchase Order Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.291370",
+  "name": "pj1g991m72",
+  "parent": "Purchase Receipt Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.167384",
+  "name": "pisf9g8fu5",
+  "parent": "Purchase Invoice Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.001802",
+  "name": "pise6odhak",
+  "parent": "Budget Variance Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:00.981787",
+  "name": "piu9msr3vl",
+  "parent": "Available Stock for Packing Items",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.173353",
+  "name": "pisf0kovds",
+  "parent": "Received Items To Be Billed",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.430734",
+  "name": "pj1ic35hqt",
+  "parent": "Material Requests for which Supplier Quotations are not created",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.359777",
+  "name": "pj1h3colid",
+  "parent": "Item Shortage Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.316407",
+  "name": "pj1h9ipghe",
+  "parent": "Items To Be Requested",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.263875",
+  "name": "pit4606baf",
+  "parent": "Lead Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.036464",
+  "name": "piuaecr1em",
+  "parent": "Customer Acquisition and Loyalty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.026109",
+  "name": "piseuckr1t",
+  "parent": "Payment Period Based On Invoice Date",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.328778",
+  "name": "pj1hf12uv3",
+  "parent": "Stock Ageing",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.388881",
+  "name": "pj1h48l8fc",
+  "parent": "Stock Projected Qty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:54.993031",
+  "name": "pisd1g103r",
+  "parent": "General Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.193769",
+  "name": "pisfel2p6n",
+  "parent": "Balance Sheet",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.131936",
+  "name": "pisffq7o3u",
+  "parent": "Profit and Loss Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.069987",
+  "name": "pisepg7gv5",
+  "parent": "Trial Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.042081",
+  "name": "piuarmefc8",
+  "parent": "Customer Credit Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.198151",
+  "name": "pisf8eu2c0",
+  "parent": "Accounts Payable Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.178504",
+  "name": "pisf0bki8o",
+  "parent": "Trial Balance for Party",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:54.997602",
+  "name": "pisdnkqc1p",
+  "parent": "Cash Flow",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.031403",
+  "name": "piuau7uhk4",
+  "parent": "Inactive Customers",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.671400",
+  "name": "pitsh8h4j3",
+  "parent": "Daily Timesheet Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.823194",
+  "name": "pj7ufm9eab",
+  "parent": "Employees working on a holiday",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.730518",
+  "name": "pitjjblvhm",
+  "parent": "Supplier Quotation Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.202937",
+  "name": "pisg554f70",
+  "parent": "Profitability Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.801649",
+  "name": "pj7un6olb0",
+  "parent": "Unpaid Expense Claim",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:34.856092",
+  "name": "pi3cbsc8hc",
+  "parent": "Addresses And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.268495",
+  "name": "pit4tstum7",
+  "parent": "Prospects Engaged But Not Converted",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.241722",
+  "name": "pit49361rs",
+  "parent": "Campaign Efficiency",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:57.254556",
+  "name": "pit4365s3j",
+  "parent": "Lead Owner Efficiency",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.271016",
+  "name": "pj1grfg8u9",
+  "parent": "Total Stock Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.398368",
+  "name": "pj1h84vkif",
+  "parent": "Item Variant Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.304028",
+  "name": "pj1hqkkhk3",
+  "parent": "Item Price Stock",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.341865",
+  "name": "pj1ha0dksa",
+  "parent": "Warehouse wise Item Balance Age and Value",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.414226",
+  "name": "pj1ij9fm8s",
+  "parent": "Item Balance (Simple)",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.015979",
+  "name": "pise1vtqd9",
+  "parent": "Consolidated Financial Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.070331",
+  "name": "piua6po362",
+  "parent": "Customers Without Any Sales Transactions",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "System Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.220293",
+  "name": "pivu89un9f",
+  "parent": "BOM Variance Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.026883",
+  "name": "piuaf48aku",
+  "parent": "Address And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.030589",
+  "name": "pisegr8dta",
+  "parent": "TDS Computation Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.162336",
+  "name": "pisfhm0f4r",
+  "parent": "Tax Withholding Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:00.986489",
+  "name": "piu9ck2hnj",
+  "parent": "Sales Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.346278",
+  "name": "pj1hron7ef",
+  "parent": "Stock Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.000146",
+  "name": "piuaub4575",
+  "parent": "Pending SO Items For Purchase Request",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.007075",
+  "name": "pisegis6v9",
+  "parent": "Trial Balance (Simple)",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.034895",
+  "name": "pisekuv6tp",
+  "parent": "Gross and Net Profit Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.676800",
+  "name": "pitsrj5ka4",
+  "parent": "Employee Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.686217",
+  "name": "pits2vlaq2",
+  "parent": "Project Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.091656",
+  "name": "piuapobs7b",
+  "parent": "Sales Partner Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.010302",
+  "name": "piuai60uaa",
+  "parent": "Sales Partner Target Variance based on Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.081632",
+  "name": "piua386ouj",
+  "parent": "Sales Person Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:00.991308",
+  "name": "piu9k516dd",
+  "parent": "Territory Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.066051",
+  "name": "pise7o0v0p",
+  "parent": "Inactive Sales Items",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.689436",
+  "name": "piti9fmbk5",
+  "parent": "Subcontracted Item To Be Received",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.693809",
+  "name": "piti6end1v",
+  "parent": "Subcontracted Raw Materials To Be Transferred",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.051501",
+  "name": "piua0fj5gb",
+  "parent": "Customer-wise Item Price",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.299469",
+  "name": "pj1go3ackr",
+  "parent": "Delayed Item Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.368204",
+  "name": "pj1hqf5q9i",
+  "parent": "Delayed Order Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.134130",
+  "name": "pivtnishdv",
+  "parent": "bom-comparison-tool",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.841258",
+  "name": "pj7ubq90gk",
+  "parent": "Employee Leave Balance Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:00.952328",
+  "name": "piu9vnuov6",
+  "parent": "point-of-sale",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.180509",
+  "name": "pivti7qa04",
+  "parent": "Production Planning Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.233391",
+  "name": "pivu4fdt56",
+  "parent": "Work Order Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.189767",
+  "name": "pivtkjs3g4",
+  "parent": "Job Card Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.184986",
+  "name": "pivt1urrc4",
+  "parent": "Downtime Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.214611",
+  "name": "pivumh32ht",
+  "parent": "Quality Inspection Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.722090",
+  "name": "pitjv7md56",
+  "parent": "Purchase Order Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.814459",
+  "name": "pj7uk9oikv",
+  "parent": "Employee Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.257840",
+  "name": "pivucehv4d",
+  "parent": "Exponential Smoothing Forecasting",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.061453",
+  "name": "piuautksfq",
+  "parent": "Sales Order Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:34.501041",
+  "name": "pj8p7kq4td",
+  "parent": "Income Tax Deductions",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:34.505794",
+  "name": "pj8pi7j0e2",
+  "parent": "Salary Payments Based On Payment Mode",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.717213",
+  "name": "pitjvpmd6d",
+  "parent": "Requested Items to Order and Receive",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.198544",
+  "name": "pivtnuoqaa",
+  "parent": "Cost of Poor Quality Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.074211",
+  "name": "pisep2oef4",
+  "parent": "Billed Items To Be Received",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.772157",
+  "name": "pj7t27l0ai",
+  "parent": "Project Profitability",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.422471",
+  "name": "pj1i2ilr81",
+  "parent": "Serial No Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.364131",
+  "name": "pj1hg7vork",
+  "parent": "Incorrect Balance Qty After Transaction",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.251516",
+  "name": "pj1gdsgpg4",
+  "parent": "Incorrect Serial No Valuation",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.709124",
+  "name": "pitjpk823b",
+  "parent": "Subcontract Order Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.287267",
+  "name": "pj1gj39lfk",
+  "parent": "COGS By Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.827464",
+  "name": "pj7u6ffqk7",
+  "parent": "Employee Exits",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.189009",
+  "name": "pisfpehqcb",
+  "parent": "Deferred Revenue and Expense",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.056748",
+  "name": "piua1tunup",
+  "parent": "Payment Terms Status for Sales Order",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:34.517239",
+  "name": "pj8pnqvjvp",
+  "parent": "Income Tax Computation",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.020613",
+  "name": "pisetoq6qj",
+  "parent": "Payment Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.781447",
+  "name": "pj7t1pao7j",
+  "parent": "Appraisal Overview",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.058166",
+  "name": "piseetv96k",
+  "parent": "Voucher-wise Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.208878",
+  "name": "pisgeku5jh",
+  "parent": "Financial Ratios",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.404277",
+  "name": "pj1iv3cevu",
+  "parent": "Serial and Batch Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:14.239030",
+  "name": "pj2eukq9qf",
+  "parent": "Asset Activity",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Quality Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.157221",
+  "name": "pisf7dmdfm",
+  "parent": "General and Payment Ledger Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.831585",
+  "name": "pj7uujme7p",
+  "parent": "Shift Attendance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.151223",
+  "name": "pivtcjisgr",
+  "parent": "visual-plant-floor",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Operator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.785913",
+  "name": "pj7tln3m2l",
+  "parent": "Leave Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5eesg8vh",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi46bgk8mu",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Translator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.165796",
+  "name": "pj49kldlsc",
+  "parent": "Inventory",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.169847",
+  "name": "pj49phb2q6",
+  "parent": "Manufacturing",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.176783",
+  "name": "pj49q48m7v",
+  "parent": "Sales",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.180301",
+  "name": "pj490177eg",
+  "parent": "Purchase",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:46.336734",
+  "name": "pjcfnv9b1u",
+  "parent": "HR",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Leave Approver"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.081102",
+  "name": "pisehm1knv",
+  "parent": "Accounts Payable",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.011574",
+  "name": "pise9rdstl",
+  "parent": "Purchase Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.005149",
+  "name": "piuabjlcl3",
+  "parent": "Sales Person-wise Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.263862",
+  "name": "pj1gcbdtnt",
+  "parent": "Requested Items To Be Transferred",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.086694",
+  "name": "piuan5gnji",
+  "parent": "Item-wise Sales History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.109700",
+  "name": "pisfdg31a7",
+  "parent": "Item-wise Purchase Register",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.409131",
+  "name": "pj1ismrsql",
+  "parent": "Itemwise Recommended Reorder Level",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.022074",
+  "name": "piuao4vmc6",
+  "parent": "Quotation Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.439226",
+  "name": "pj1i49tjlk",
+  "parent": "Delivery Note Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.075430",
+  "name": "piuab714tu",
+  "parent": "Sales Order Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.291370",
+  "name": "pj1grmv692",
+  "parent": "Purchase Receipt Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.167384",
+  "name": "pisf6g2301",
+  "parent": "Purchase Invoice Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.001802",
+  "name": "pisel9lmmo",
+  "parent": "Budget Variance Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.173353",
+  "name": "pisf5nud22",
+  "parent": "Received Items To Be Billed",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.430734",
+  "name": "pj1iaknemn",
+  "parent": "Material Requests for which Supplier Quotations are not created",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.316407",
+  "name": "pj1hiqduoj",
+  "parent": "Items To Be Requested",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.036464",
+  "name": "piuamvkr0e",
+  "parent": "Customer Acquisition and Loyalty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.328778",
+  "name": "pj1hqgggc2",
+  "parent": "Stock Ageing",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.388881",
+  "name": "pj1ho4r3b6",
+  "parent": "Stock Projected Qty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.042081",
+  "name": "piuavgq1et",
+  "parent": "Customer Credit Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.198151",
+  "name": "pisfq719ml",
+  "parent": "Accounts Payable Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.031403",
+  "name": "piua01oage",
+  "parent": "Inactive Customers",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.671400",
+  "name": "pitsngiefc",
+  "parent": "Daily Timesheet Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.730518",
+  "name": "pitjilkl3b",
+  "parent": "Supplier Quotation Comparison",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:24:34.856092",
+  "name": "pi3ccgttgh",
+  "parent": "Addresses And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.271016",
+  "name": "pj1gofr988",
+  "parent": "Total Stock Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.398368",
+  "name": "pj1hllakkt",
+  "parent": "Item Variant Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.304028",
+  "name": "pj1hard05f",
+  "parent": "Item Price Stock",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.341865",
+  "name": "pj1hlo4qqf",
+  "parent": "Warehouse wise Item Balance Age and Value",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.015979",
+  "name": "pisel0489i",
+  "parent": "Consolidated Financial Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.220293",
+  "name": "pivupbhkdo",
+  "parent": "BOM Variance Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.026883",
+  "name": "piua641p2o",
+  "parent": "Address And Contacts",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.030589",
+  "name": "pise1okog0",
+  "parent": "TDS Computation Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.162336",
+  "name": "pisfphi5od",
+  "parent": "Tax Withholding Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:00.986489",
+  "name": "piu978gmns",
+  "parent": "Sales Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.346278",
+  "name": "pj1hgultkc",
+  "parent": "Stock Analytics",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.000146",
+  "name": "piua892jus",
+  "parent": "Pending SO Items For Purchase Request",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.676800",
+  "name": "pitsp5lon0",
+  "parent": "Employee Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.686217",
+  "name": "pitsn1n2gn",
+  "parent": "Project Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.091656",
+  "name": "piuavfq0um",
+  "parent": "Sales Partner Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.010302",
+  "name": "piuaupca6i",
+  "parent": "Sales Partner Target Variance based on Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.081632",
+  "name": "piua2j5jr3",
+  "parent": "Sales Person Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:00.991308",
+  "name": "piu9qaur20",
+  "parent": "Territory Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.051501",
+  "name": "piua14c6ob",
+  "parent": "Customer-wise Item Price",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.299469",
+  "name": "pj1gvqugun",
+  "parent": "Delayed Item Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.368204",
+  "name": "pj1hi76iu2",
+  "parent": "Delayed Order Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.841258",
+  "name": "pj7uk1nes2",
+  "parent": "Employee Leave Balance Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Leave Approver"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:00.952328",
+  "name": "piu9gl49pq",
+  "parent": "point-of-sale",
+  "parentfield": "roles",
+  "parenttype": "Page",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.189767",
+  "name": "pivthivn98",
+  "parent": "Job Card Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.722090",
+  "name": "pitjcvite1",
+  "parent": "Purchase Order Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Supplier"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.257840",
+  "name": "pivuef5iis",
+  "parent": "Exponential Smoothing Forecasting",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.061453",
+  "name": "piuak1ihn7",
+  "parent": "Sales Order Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:34.501041",
+  "name": "pj8ps45lgm",
+  "parent": "Income Tax Deductions",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee Self Service"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:58.717213",
+  "name": "pitj27u8h3",
+  "parent": "Requested Items to Order and Receive",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.074211",
+  "name": "pisefskscp",
+  "parent": "Billed Items To Be Received",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.772157",
+  "name": "pj7tlk0gf8",
+  "parent": "Project Profitability",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Projects User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.251516",
+  "name": "pj1gdusd0j",
+  "parent": "Incorrect Serial No Valuation",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.056748",
+  "name": "piua81vlnj",
+  "parent": "Payment Terms Status for Sales Order",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:34.517239",
+  "name": "pj8pn3e98p",
+  "parent": "Income Tax Computation",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee Self Service"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.781447",
+  "name": "pj7teieuqd",
+  "parent": "Appraisal Overview",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee Self Service"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.208878",
+  "name": "pisgbuufpg",
+  "parent": "Financial Ratios",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.404277",
+  "name": "pj1i5i1vsg",
+  "parent": "Serial and Batch Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.831585",
+  "name": "pj7u7647bc",
+  "parent": "Shift Attendance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee Self Service"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.785913",
+  "name": "pj7tgpog4b",
+  "parent": "Leave Ledger",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5ej871ic",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi46r0f25j",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.180428",
+  "name": "pj497d97gr",
+  "parent": "Purchase",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:46.336867",
+  "name": "pjcfsjdqk0",
+  "parent": "HR",
+  "parentfield": "roles",
+  "parenttype": "Role Profile",
+  "role": "Expense Approver"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.005149",
+  "name": "piua38bn90",
+  "parent": "Sales Person-wise Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.086694",
+  "name": "piua3luqjg",
+  "parent": "Item-wise Sales History",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.409131",
+  "name": "pj1it43a6a",
+  "parent": "Itemwise Recommended Reorder Level",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.075430",
+  "name": "piuab3d14u",
+  "parent": "Sales Order Trends",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.001802",
+  "name": "pisea759ug",
+  "parent": "Budget Variance Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.036464",
+  "name": "piuafg228v",
+  "parent": "Customer Acquisition and Loyalty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.328778",
+  "name": "pj1h1urlb0",
+  "parent": "Stock Ageing",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.388881",
+  "name": "pj1h7pbkl9",
+  "parent": "Stock Projected Qty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.042081",
+  "name": "piuac6rp3s",
+  "parent": "Customer Credit Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.031403",
+  "name": "piuava7hav",
+  "parent": "Inactive Customers",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.398368",
+  "name": "pj1hku909k",
+  "parent": "Item Variant Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.304028",
+  "name": "pj1h5oth31",
+  "parent": "Item Price Stock",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.015979",
+  "name": "pise890hbp",
+  "parent": "Consolidated Financial Statement",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.000146",
+  "name": "piua19huc3",
+  "parent": "Pending SO Items For Purchase Request",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.676800",
+  "name": "pitsk372bl",
+  "parent": "Employee Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:59.686217",
+  "name": "pits4fvdlp",
+  "parent": "Project Billing Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.091656",
+  "name": "piua98m0mt",
+  "parent": "Sales Partner Transaction Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.010302",
+  "name": "piua7tb4pd",
+  "parent": "Sales Partner Target Variance based on Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.081632",
+  "name": "piua3s3noh",
+  "parent": "Sales Person Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:00.991308",
+  "name": "piu9v4j1ok",
+  "parent": "Territory Target Variance Based On Item Group",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.051501",
+  "name": "piuaptu3il",
+  "parent": "Customer-wise Item Price",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.299469",
+  "name": "pj1gn5pb9t",
+  "parent": "Delayed Item Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.368204",
+  "name": "pj1hk2od9u",
+  "parent": "Delayed Order Report",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.257840",
+  "name": "pivusgl4s7",
+  "parent": "Exponential Smoothing Forecasting",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.061453",
+  "name": "piuah5dp3s",
+  "parent": "Sales Order Analysis",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.074211",
+  "name": "pise64hfb5",
+  "parent": "Billed Items To Be Received",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.772157",
+  "name": "pj7t6vkcae",
+  "parent": "Project Profitability",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.056748",
+  "name": "piualcrff2",
+  "parent": "Payment Terms Status for Sales Order",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.781447",
+  "name": "pj7trfdj9k",
+  "parent": "Appraisal Overview",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:25:55.208878",
+  "name": "pisg9fcvjg",
+  "parent": "Financial Ratios",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.404277",
+  "name": "pj1i07t30p",
+  "parent": "Serial and Batch Summary",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.831585",
+  "name": "pj7uup3mcq",
+  "parent": "Shift Attendance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5eg6kk84",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Agriculture Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi465pnfm1",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.409131",
+  "name": "pj1igk4bal",
+  "parent": "Itemwise Recommended Reorder Level",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.036464",
+  "name": "piua6ksvv5",
+  "parent": "Customer Acquisition and Loyalty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.328778",
+  "name": "pj1havbkoo",
+  "parent": "Stock Ageing",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.388881",
+  "name": "pj1he428bu",
+  "parent": "Stock Projected Qty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.042081",
+  "name": "piuagqp558",
+  "parent": "Customer Credit Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.398368",
+  "name": "pj1hg5mqcq",
+  "parent": "Item Variant Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.304028",
+  "name": "pj1hda7vk4",
+  "parent": "Item Price Stock",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.051501",
+  "name": "piua7hrikr",
+  "parent": "Customer-wise Item Price",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:06.257840",
+  "name": "pivuvm3iin",
+  "parent": "Exponential Smoothing Forecasting",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.772157",
+  "name": "pj7t1522s2",
+  "parent": "Project Profitability",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Employee Self Service"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5ej2l4nh",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Agriculture User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi46kcbve8",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Maintenance Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.409131",
+  "name": "pj1ih350r3",
+  "parent": "Itemwise Recommended Reorder Level",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.036464",
+  "name": "piua9erju5",
+  "parent": "Customer Acquisition and Loyalty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.328778",
+  "name": "pj1hnlbljb",
+  "parent": "Stock Ageing",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.388881",
+  "name": "pj1hgmduf1",
+  "parent": "Stock Projected Qty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.042081",
+  "name": "piuat53mua",
+  "parent": "Customer Credit Balance",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.398368",
+  "name": "pj1hvaflll",
+  "parent": "Item Variant Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.304028",
+  "name": "pj1hms16qt",
+  "parent": "Item Price Stock",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:01.051501",
+  "name": "piuapv1vqe",
+  "parent": "Customer-wise Item Price",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:31.772157",
+  "name": "pj7t1c2rpg",
+  "parent": "Project Profitability",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5eumr748",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Analytics"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi46eracok",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.409131",
+  "name": "pj1i54mnu5",
+  "parent": "Itemwise Recommended Reorder Level",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.328778",
+  "name": "pj1hnpi3h5",
+  "parent": "Stock Ageing",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.388881",
+  "name": "pj1h651kkc",
+  "parent": "Stock Projected Qty",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.398368",
+  "name": "pj1hrm0e7j",
+  "parent": "Item Variant Details",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:11.304028",
+  "name": "pj1hrkqlid",
+  "parent": "Item Price Stock",
+  "parentfield": "roles",
+  "parenttype": "Report",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5ec1n7p3",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi46obrnee",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Purchase Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5e84clcm",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Blogger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi46263032",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Sales Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5e9u3gtn",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Customer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi46613juk",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Accounts Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5emuq66j",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Dashboard Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi46i6h0qj",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Accounts User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5eloefjm",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Delivery Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi469ng77k",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5e3e28qj",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Delivery User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi46nl38l5",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi46m4sedp",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Newsletter Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi46f03r3f",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Blogger"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5etk3t77",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Expense Approver"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi46g9qhtp",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Knowledge Base Editor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5e9onj2d",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Fleet Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi461dcjpu",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Knowledge Base Contributor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5evtgdpe",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Fulfillment User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi46bmdfkv",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Inbox User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5egu579f",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi461d9jg2",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Prepared Report User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5eo4k2gn",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi46md90a9",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Script Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5epi98aa",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Inbox User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi46m6ln7s",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Report Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5er13hcp",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Interviewer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi4633vhat",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Workspace Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5ejuio8e",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi46ta61f3",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Dashboard Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5en11682",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Knowledge Base Contributor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi46l1t2mi",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Website Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5eiotujt",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Knowledge Base Editor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi46kqhr76",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Guest"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5em10pcv",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Leave Approver"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi46ijcb03",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "All"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5e1pniok",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Maintenance Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pi460tgou4",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Desk User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5epbdqcp",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Maintenance User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj48mpv1o4",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Analytics"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5eh2bb35",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj48te26mr",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Fulfillment User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5e7bc5ql",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj48n2kgrs",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5em3sp12",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Newsletter Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj48a9av8f",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Agriculture User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5eb2vac7",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Prepared Report User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj48crnhl8",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Projects Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5ebvhhv8",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Projects Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj48ea0emo",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Manufacturing Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5egn4j45",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Projects User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj48i1od1t",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Projects User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5ep5o0kv",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Purchase Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj48mbelmh",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Delivery Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5epcaua7",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Purchase Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj48ug32ar",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Item Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5e17u50d",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Purchase User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj4813dk1p",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Agriculture Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5ef2o96g",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Quality Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj48qg28vc",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Quality Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5ec8a8ht",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Report Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj48j7ie6u",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "HR Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5e9ur265",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Sales Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj4883h9mq",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5ehe7e9n",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Sales Master Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj486jtic4",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Support Team"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5eh8om1h",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Sales User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj48ib4tls",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Delivery User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5eifbica",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Script Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj48nd3njm",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Academics User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5e1qgvcb",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Stock Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj48roo54j",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Manufacturing User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5echmpih",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Stock User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj48fc6ic1",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Auditor"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5e0l2iij",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Supplier"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj48b16740",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Fleet Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5e2rgn1h",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Support Team"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-10 10:26:20.027443",
+  "name": "pj482sce3m",
+  "parent": "Administrator",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "HR User"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5eq5lod6",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Translator"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5eh1dq8u",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Website Manager"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Has Role",
+  "modified": "2024-07-11 07:25:38.996691",
+  "name": "ho5ed0v3ed",
+  "parent": "nam@gmail.com",
+  "parentfield": "roles",
+  "parenttype": "User",
+  "role": "Workspace Manager"
+ }
+]

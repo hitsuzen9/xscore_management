@@ -1,0 +1,15 @@
+[
+ {
+  "do_reposting_for_each_stock_transaction": 0,
+  "docstatus": 0,
+  "doctype": "Stock Reposting Settings",
+  "end_time": "10:26:17.415630",
+  "item_based_reposting": 1,
+  "limit_reposting_timeslot": 0,
+  "limits_dont_apply_on": "",
+  "modified": "2024-07-10 10:26:17.415750",
+  "name": "Stock Reposting Settings",
+  "notify_reposting_error_to_role": null,
+  "start_time": "10:26:17.415597"
+ }
+]

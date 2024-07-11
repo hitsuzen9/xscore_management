@@ -1,0 +1,66 @@
+[
+ {
+  "add_to_transit": 0,
+  "docstatus": 0,
+  "doctype": "Stock Entry Type",
+  "modified": "2024-07-10 09:28:34.293403",
+  "name": "Material Issue",
+  "purpose": "Material Issue"
+ },
+ {
+  "add_to_transit": 0,
+  "docstatus": 0,
+  "doctype": "Stock Entry Type",
+  "modified": "2024-07-10 09:28:34.296321",
+  "name": "Material Receipt",
+  "purpose": "Material Receipt"
+ },
+ {
+  "add_to_transit": 0,
+  "docstatus": 0,
+  "doctype": "Stock Entry Type",
+  "modified": "2024-07-10 09:28:34.297669",
+  "name": "Material Transfer",
+  "purpose": "Material Transfer"
+ },
+ {
+  "add_to_transit": 0,
+  "docstatus": 0,
+  "doctype": "Stock Entry Type",
+  "modified": "2024-07-10 09:28:34.299039",
+  "name": "Manufacture",
+  "purpose": "Manufacture"
+ },
+ {
+  "add_to_transit": 0,
+  "docstatus": 0,
+  "doctype": "Stock Entry Type",
+  "modified": "2024-07-10 09:28:34.300273",
+  "name": "Repack",
+  "purpose": "Repack"
+ },
+ {
+  "add_to_transit": 0,
+  "docstatus": 0,
+  "doctype": "Stock Entry Type",
+  "modified": "2024-07-10 09:28:34.301500",
+  "name": "Send to Subcontractor",
+  "purpose": "Send to Subcontractor"
+ },
+ {
+  "add_to_transit": 0,
+  "docstatus": 0,
+  "doctype": "Stock Entry Type",
+  "modified": "2024-07-10 09:28:34.302757",
+  "name": "Material Transfer for Manufacture",
+  "purpose": "Material Transfer for Manufacture"
+ },
+ {
+  "add_to_transit": 0,
+  "docstatus": 0,
+  "doctype": "Stock Entry Type",
+  "modified": "2024-07-10 09:28:34.304262",
+  "name": "Material Consumption for Manufacture",
+  "purpose": "Material Consumption for Manufacture"
+ }
+]

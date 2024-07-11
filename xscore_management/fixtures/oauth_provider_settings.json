@@ -1,0 +1,9 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "OAuth Provider Settings",
+  "modified": "2024-07-10 10:24:36.260496",
+  "name": "OAuth Provider Settings",
+  "skip_authorization": "Force"
+ }
+]

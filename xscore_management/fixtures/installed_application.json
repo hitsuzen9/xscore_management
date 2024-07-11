@@ -1,0 +1,50 @@
+[
+ {
+  "app_name": "frappe",
+  "app_version": "15.33.3",
+  "docstatus": 0,
+  "doctype": "Installed Application",
+  "git_branch": "version-15",
+  "modified": "2024-07-10 11:39:22.183004",
+  "name": "s12l5tid45",
+  "parent": "Installed Applications",
+  "parentfield": "installed_applications",
+  "parenttype": "Installed Applications"
+ },
+ {
+  "app_name": "erpnext",
+  "app_version": "15.29.2",
+  "docstatus": 0,
+  "doctype": "Installed Application",
+  "git_branch": "version-15",
+  "modified": "2024-07-10 11:39:22.184436",
+  "name": "s12l39di0u",
+  "parent": "Installed Applications",
+  "parentfield": "installed_applications",
+  "parenttype": "Installed Applications"
+ },
+ {
+  "app_name": "hrms",
+  "app_version": "15.23.1",
+  "docstatus": 0,
+  "doctype": "Installed Application",
+  "git_branch": "version-15",
+  "modified": "2024-07-10 11:39:22.184656",
+  "name": "s12lhn7qsj",
+  "parent": "Installed Applications",
+  "parentfield": "installed_applications",
+  "parenttype": "Installed Applications"
+ },
+ {
+  "app_name": "xscore_management",
+  "app_version": "0.0.1",
+  "docstatus": 0,
+  "doctype": "Installed Application",
+  "git_branch": "master",
+  "modified": "2024-07-10 11:39:22.184820",
+  "name": "s12l8b59rm",
+  "parent": "Installed Applications",
+  "parentfield": "installed_applications",
+  "parenttype": "Installed Applications"
+ }
+]

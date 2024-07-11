@@ -1,0 +1,359 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Accounting",
+  "modified": "2024-07-10 09:28:34.894825",
+  "name": "Accounting"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Advertising",
+  "modified": "2024-07-10 09:28:34.898615",
+  "name": "Advertising"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Aerospace",
+  "modified": "2024-07-10 09:28:34.900101",
+  "name": "Aerospace"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Agriculture",
+  "modified": "2024-07-10 09:28:34.901455",
+  "name": "Agriculture"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Airline",
+  "modified": "2024-07-10 09:28:34.902731",
+  "name": "Airline"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Apparel & Accessories",
+  "modified": "2024-07-10 09:28:34.904039",
+  "name": "Apparel & Accessories"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Automotive",
+  "modified": "2024-07-10 09:28:34.905372",
+  "name": "Automotive"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Banking",
+  "modified": "2024-07-10 09:28:34.906577",
+  "name": "Banking"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Biotechnology",
+  "modified": "2024-07-10 09:28:34.907806",
+  "name": "Biotechnology"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Broadcasting",
+  "modified": "2024-07-10 09:28:34.909004",
+  "name": "Broadcasting"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Brokerage",
+  "modified": "2024-07-10 09:28:34.910236",
+  "name": "Brokerage"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Chemical",
+  "modified": "2024-07-10 09:28:34.911458",
+  "name": "Chemical"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Computer",
+  "modified": "2024-07-10 09:28:34.912752",
+  "name": "Computer"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Consulting",
+  "modified": "2024-07-10 09:28:34.914044",
+  "name": "Consulting"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Consumer Products",
+  "modified": "2024-07-10 09:28:34.915277",
+  "name": "Consumer Products"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Cosmetics",
+  "modified": "2024-07-10 09:28:34.916481",
+  "name": "Cosmetics"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Defense",
+  "modified": "2024-07-10 09:28:34.917721",
+  "name": "Defense"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Department Stores",
+  "modified": "2024-07-10 09:28:34.918909",
+  "name": "Department Stores"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Education",
+  "modified": "2024-07-10 09:28:34.920126",
+  "name": "Education"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Electronics",
+  "modified": "2024-07-10 09:28:34.921469",
+  "name": "Electronics"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Energy",
+  "modified": "2024-07-10 09:28:34.922745",
+  "name": "Energy"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Entertainment & Leisure",
+  "modified": "2024-07-10 09:28:34.924062",
+  "name": "Entertainment & Leisure"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Executive Search",
+  "modified": "2024-07-10 09:28:34.925286",
+  "name": "Executive Search"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Financial Services",
+  "modified": "2024-07-10 09:28:34.926474",
+  "name": "Financial Services"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Food, Beverage & Tobacco",
+  "modified": "2024-07-10 09:28:34.927700",
+  "name": "Food, Beverage & Tobacco"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Grocery",
+  "modified": "2024-07-10 09:28:34.928921",
+  "name": "Grocery"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Health Care",
+  "modified": "2024-07-10 09:28:34.930151",
+  "name": "Health Care"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Internet Publishing",
+  "modified": "2024-07-10 09:28:34.931344",
+  "name": "Internet Publishing"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Investment Banking",
+  "modified": "2024-07-10 09:28:34.932631",
+  "name": "Investment Banking"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Legal",
+  "modified": "2024-07-10 09:28:34.933997",
+  "name": "Legal"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Manufacturing",
+  "modified": "2024-07-10 09:28:34.935238",
+  "name": "Manufacturing"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Motion Picture & Video",
+  "modified": "2024-07-10 09:28:34.936413",
+  "name": "Motion Picture & Video"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Music",
+  "modified": "2024-07-10 09:28:34.937642",
+  "name": "Music"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Newspaper Publishers",
+  "modified": "2024-07-10 09:28:34.938927",
+  "name": "Newspaper Publishers"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Online Auctions",
+  "modified": "2024-07-10 09:28:34.940131",
+  "name": "Online Auctions"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Pension Funds",
+  "modified": "2024-07-10 09:28:34.941382",
+  "name": "Pension Funds"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Pharmaceuticals",
+  "modified": "2024-07-10 09:28:34.942608",
+  "name": "Pharmaceuticals"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Private Equity",
+  "modified": "2024-07-10 09:28:34.943856",
+  "name": "Private Equity"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Publishing",
+  "modified": "2024-07-10 09:28:34.945111",
+  "name": "Publishing"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Real Estate",
+  "modified": "2024-07-10 09:28:34.946345",
+  "name": "Real Estate"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Retail & Wholesale",
+  "modified": "2024-07-10 09:28:34.947580",
+  "name": "Retail & Wholesale"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Securities & Commodity Exchanges",
+  "modified": "2024-07-10 09:28:34.948786",
+  "name": "Securities & Commodity Exchanges"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Service",
+  "modified": "2024-07-10 09:28:34.950037",
+  "name": "Service"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Soap & Detergent",
+  "modified": "2024-07-10 09:28:34.951242",
+  "name": "Soap & Detergent"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Software",
+  "modified": "2024-07-10 09:28:34.952468",
+  "name": "Software"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Sports",
+  "modified": "2024-07-10 09:28:34.953720",
+  "name": "Sports"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Technology",
+  "modified": "2024-07-10 09:28:34.954948",
+  "name": "Technology"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Telecommunications",
+  "modified": "2024-07-10 09:28:34.956171",
+  "name": "Telecommunications"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Television",
+  "modified": "2024-07-10 09:28:34.957356",
+  "name": "Television"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Transportation",
+  "modified": "2024-07-10 09:28:34.958608",
+  "name": "Transportation"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Industry Type",
+  "industry": "Venture Capital",
+  "modified": "2024-07-10 09:28:34.959802",
+  "name": "Venture Capital"
+ }
+]

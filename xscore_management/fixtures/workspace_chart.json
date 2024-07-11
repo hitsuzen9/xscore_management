@@ -1,0 +1,134 @@
+[
+ {
+  "chart_name": "Territory Wise Sales",
+  "docstatus": 0,
+  "doctype": "Workspace Chart",
+  "label": "Territory Wise Sales",
+  "modified": "2024-07-10 10:25:57.279239",
+  "name": "pit4hbp3h1",
+  "parent": "CRM",
+  "parentfield": "charts",
+  "parenttype": "Workspace"
+ },
+ {
+  "chart_name": "Sales Order Trends",
+  "docstatus": 0,
+  "doctype": "Workspace Chart",
+  "label": "Sales Order Trends",
+  "modified": "2024-07-10 10:26:01.132651",
+  "name": "piubca6d7m",
+  "parent": "Selling",
+  "parentfield": "charts",
+  "parenttype": "Workspace"
+ },
+ {
+  "chart_name": "Purchase Order Trends",
+  "docstatus": 0,
+  "doctype": "Workspace Chart",
+  "label": "Purchase Order Trends",
+  "modified": "2024-07-10 10:25:58.744231",
+  "name": "pitjiee063",
+  "parent": "Buying",
+  "parentfield": "charts",
+  "parenttype": "Workspace"
+ },
+ {
+  "chart_name": "Profit and Loss",
+  "docstatus": 0,
+  "doctype": "Workspace Chart",
+  "label": "Profit and Loss",
+  "modified": "2024-07-10 10:25:55.491836",
+  "name": "pisil6a8ed",
+  "parent": "Accounting",
+  "parentfield": "charts",
+  "parenttype": "Workspace"
+ },
+ {
+  "chart_name": "Warehouse wise Stock Value",
+  "docstatus": 0,
+  "doctype": "Workspace Chart",
+  "label": "Warehouse wise Stock Value",
+  "modified": "2024-07-10 10:26:11.481407",
+  "name": "pj1ipkgij3",
+  "parent": "Stock",
+  "parentfield": "charts",
+  "parenttype": "Workspace"
+ },
+ {
+  "chart_name": "Asset Value Analytics",
+  "docstatus": 0,
+  "doctype": "Workspace Chart",
+  "label": "Asset Value Analytics",
+  "modified": "2024-07-10 10:26:14.243745",
+  "name": "pj2epm8gag",
+  "parent": "Assets",
+  "parentfield": "charts",
+  "parenttype": "Workspace"
+ },
+ {
+  "chart_name": "Project Summary",
+  "docstatus": 0,
+  "doctype": "Workspace Chart",
+  "label": "Open Projects",
+  "modified": "2024-07-10 10:25:59.730019",
+  "name": "pitta93s3r",
+  "parent": "Projects",
+  "parentfield": "charts",
+  "parenttype": "Workspace"
+ },
+ {
+  "chart_name": "Hiring vs Attrition Count",
+  "docstatus": 0,
+  "doctype": "Workspace Chart",
+  "label": "Hiring vs Attrition Count",
+  "modified": "2024-07-10 10:26:32.058999",
+  "name": "pj80d2v6na",
+  "parent": "HR",
+  "parentfield": "charts",
+  "parenttype": "Workspace"
+ },
+ {
+  "chart_name": "Outgoing Salary",
+  "docstatus": 0,
+  "doctype": "Workspace Chart",
+  "label": "Outgoing Salary",
+  "modified": "2024-07-10 10:26:34.567585",
+  "name": "pj8p00n0j7",
+  "parent": "Payroll",
+  "parentfield": "charts",
+  "parenttype": "Workspace"
+ },
+ {
+  "chart_name": "Department Wise Openings",
+  "docstatus": 0,
+  "doctype": "Workspace Chart",
+  "label": "Department Wise Openings",
+  "modified": "2024-07-10 10:26:32.099082",
+  "name": "pj80poco4d",
+  "parent": "Recruitment",
+  "parentfield": "charts",
+  "parenttype": "Workspace"
+ },
+ {
+  "chart_name": "Attendance Count",
+  "docstatus": 0,
+  "doctype": "Workspace Chart",
+  "label": "Attendance Count",
+  "modified": "2024-07-10 10:26:32.089312",
+  "name": "pj804gg6lb",
+  "parent": "Shift & Attendance",
+  "parentfield": "charts",
+  "parenttype": "Workspace"
+ },
+ {
+  "chart_name": "Expense Claims",
+  "docstatus": 0,
+  "doctype": "Workspace Chart",
+  "label": "Expense Claims",
+  "modified": "2024-07-10 10:26:32.077382",
+  "name": "pj80tqut6a",
+  "parent": "Expense Claims",
+  "parentfield": "charts",
+  "parenttype": "Workspace"
+ }
+]

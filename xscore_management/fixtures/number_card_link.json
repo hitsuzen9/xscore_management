@@ -1,0 +1,552 @@
+[
+ {
+  "card": "Monthly Total Work Order",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.841029",
+  "name": "pj4gv6phut",
+  "parent": "Manufacturing",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Total Assets",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.887896",
+  "name": "pj4gcd1ekd",
+  "parent": "Asset",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Total Outgoing Bills",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.716375",
+  "name": "pj4f7d3utd",
+  "parent": "Accounts",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "New Lead (Last 1 Month)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.774403",
+  "name": "pj4fkkbfhg",
+  "parent": "CRM",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Annual Sales",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.822065",
+  "name": "pj4g30geqn",
+  "parent": "Selling",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Annual Purchase",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.799278",
+  "name": "pj4fn9iiok",
+  "parent": "Buying",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Total Active Items",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.868323",
+  "name": "pj4g4m7gsv",
+  "parent": "Stock",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Total Declaration Submitted",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:47.016110",
+  "name": "pjcm5h1el3",
+  "parent": "Payroll",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Job Openings",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.862368",
+  "name": "pjcksvhul3",
+  "parent": "Recruitment",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Onboardings (This Month)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.846717",
+  "name": "pjcku2s4b0",
+  "parent": "Employee Lifecycle",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Total Present (This Month)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.853641",
+  "name": "pjckicjepo",
+  "parent": "Attendance",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Expense Claims (This Month)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.858816",
+  "name": "pjcklj4b0g",
+  "parent": "Expense Claims",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Total Employees",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.867503",
+  "name": "pjckgn9iv7",
+  "parent": "Human Resource",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Monthly Completed Work Order",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.841029",
+  "name": "pj4gq73jbn",
+  "parent": "Manufacturing",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "New Assets (This Year)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.887896",
+  "name": "pj4g17rqta",
+  "parent": "Asset",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Total Incoming Bills",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.716375",
+  "name": "pj4f9bttma",
+  "parent": "Accounts",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "New Opportunity (Last 1 Month)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.774403",
+  "name": "pj4f1mvcav",
+  "parent": "CRM",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Sales Orders to Deliver",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.822065",
+  "name": "pj4gqf1v9n",
+  "parent": "Selling",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Purchase Orders to Receive",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.799278",
+  "name": "pj4fdqvlff",
+  "parent": "Buying",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Total Warehouses",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.868323",
+  "name": "pj4g8oqt3c",
+  "parent": "Stock",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Total Salary Structure",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:47.016110",
+  "name": "pjcmgu21tn",
+  "parent": "Payroll",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Total Applicants (This month)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.862368",
+  "name": "pjck40nolq",
+  "parent": "Recruitment",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Separations (This Month)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.846717",
+  "name": "pjckldb9k2",
+  "parent": "Employee Lifecycle",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Total Absent (This Month)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.853641",
+  "name": "pjckerbqfu",
+  "parent": "Attendance",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Approved Claims (This Month)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.858816",
+  "name": "pjckffuu39",
+  "parent": "Expense Claims",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "New Hires (This Year)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.867503",
+  "name": "pjck62iers",
+  "parent": "Human Resource",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Ongoing Job Card",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.841029",
+  "name": "pj4gvi3mhi",
+  "parent": "Manufacturing",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Asset Value",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.887896",
+  "name": "pj4g0evijm",
+  "parent": "Asset",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Total Incoming Payment",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.716375",
+  "name": "pj4f3r1i0k",
+  "parent": "Accounts",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Won Opportunity (Last 1 Month)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.774403",
+  "name": "pj4fpnlr8o",
+  "parent": "CRM",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Sales Orders to Bill",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.822065",
+  "name": "pj4g35bolc",
+  "parent": "Selling",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Purchase Orders to Bill",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.799278",
+  "name": "pj4fd7rt04",
+  "parent": "Buying",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Total Stock Value",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.868323",
+  "name": "pj4gtrf27g",
+  "parent": "Stock",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Total Incentive Given(Last month)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:47.016110",
+  "name": "pjcm8ttjo4",
+  "parent": "Payroll",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Accepted Job Applicants",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.862368",
+  "name": "pjckd24dc9",
+  "parent": "Recruitment",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Promotions (This Month)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.846717",
+  "name": "pjck265jl5",
+  "parent": "Employee Lifecycle",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Late Entry (This Month)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.853641",
+  "name": "pjckpps598",
+  "parent": "Attendance",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Rejected Claims (This Month)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.858816",
+  "name": "pjcklos2t1",
+  "parent": "Expense Claims",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Employee Exits (This Year)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.867503",
+  "name": "pjck02kr1j",
+  "parent": "Human Resource",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Monthly Quality Inspection",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.841029",
+  "name": "pj4gehhsqe",
+  "parent": "Manufacturing",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Total Outgoing Payment",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.716375",
+  "name": "pj4fdt1j5f",
+  "parent": "Accounts",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Open Opportunity",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.774403",
+  "name": "pj4fj2es0a",
+  "parent": "CRM",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Active Customers",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.822065",
+  "name": "pj4gfj732o",
+  "parent": "Selling",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Active Suppliers",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:20.799278",
+  "name": "pj4fqec6sc",
+  "parent": "Buying",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Total Outgoing Salary(Last month)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:47.016110",
+  "name": "pjcmngbpl5",
+  "parent": "Payroll",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Rejected Job Applicants",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.862368",
+  "name": "pjckmuq106",
+  "parent": "Recruitment",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Transfers (This Month)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.846717",
+  "name": "pjckno12h2",
+  "parent": "Employee Lifecycle",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Early Exit (This Month)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.853641",
+  "name": "pjckak86rl",
+  "parent": "Attendance",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Employees Joining (This Quarter)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.867503",
+  "name": "pjck8d08c5",
+  "parent": "Human Resource",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Job Offers (This Month)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.862368",
+  "name": "pjcks2bkjd",
+  "parent": "Recruitment",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Trainings (This Month)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.846717",
+  "name": "pjckdjor5m",
+  "parent": "Employee Lifecycle",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Employees Relieving (This Quarter)",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.867503",
+  "name": "pjckh2l05a",
+  "parent": "Human Resource",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Applicant-to-Hire Percentage",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.862368",
+  "name": "pjck07r9cr",
+  "parent": "Recruitment",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Job Offer Acceptance Rate",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.862368",
+  "name": "pjck872pvq",
+  "parent": "Recruitment",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ },
+ {
+  "card": "Time to Fill",
+  "docstatus": 0,
+  "doctype": "Number Card Link",
+  "modified": "2024-07-10 10:26:46.862368",
+  "name": "pjckeff1ue",
+  "parent": "Recruitment",
+  "parentfield": "cards",
+  "parenttype": "Dashboard"
+ }
+]

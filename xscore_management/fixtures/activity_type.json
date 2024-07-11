@@ -1,0 +1,52 @@
+[
+ {
+  "activity_type": "Planning",
+  "billing_rate": 0.0,
+  "costing_rate": 0.0,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Activity Type",
+  "modified": "2024-07-10 09:28:34.559724",
+  "name": "Planning"
+ },
+ {
+  "activity_type": "Research",
+  "billing_rate": 0.0,
+  "costing_rate": 0.0,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Activity Type",
+  "modified": "2024-07-10 09:28:34.564025",
+  "name": "Research"
+ },
+ {
+  "activity_type": "Proposal Writing",
+  "billing_rate": 0.0,
+  "costing_rate": 0.0,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Activity Type",
+  "modified": "2024-07-10 09:28:34.565560",
+  "name": "Proposal Writing"
+ },
+ {
+  "activity_type": "Execution",
+  "billing_rate": 0.0,
+  "costing_rate": 0.0,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Activity Type",
+  "modified": "2024-07-10 09:28:34.567084",
+  "name": "Execution"
+ },
+ {
+  "activity_type": "Communication",
+  "billing_rate": 0.0,
+  "costing_rate": 0.0,
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Activity Type",
+  "modified": "2024-07-10 09:28:34.568421",
+  "name": "Communication"
+ }
+]

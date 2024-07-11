@@ -1,0 +1,12 @@
+[
+ {
+  "dispatch_attachment": null,
+  "dispatch_template": null,
+  "docstatus": 0,
+  "doctype": "Delivery Settings",
+  "modified": "2024-07-10 10:26:18.290613",
+  "name": "Delivery Settings",
+  "send_with_attachment": 0,
+  "stop_delay": 0
+ }
+]

@@ -1,0 +1,134 @@
+[
+ {
+  "days": 14,
+  "docstatus": 0,
+  "doctype": "Logs To Clear",
+  "modified": "2024-07-11 05:33:59.840338",
+  "name": "fmnuiujbt8",
+  "parent": "Log Settings",
+  "parentfield": "logs_to_clear",
+  "parenttype": "Log Settings",
+  "ref_doctype": "Error Log"
+ },
+ {
+  "days": 30,
+  "docstatus": 0,
+  "doctype": "Logs To Clear",
+  "modified": "2024-07-11 05:33:59.840552",
+  "name": "fmnu4u2589",
+  "parent": "Log Settings",
+  "parentfield": "logs_to_clear",
+  "parenttype": "Log Settings",
+  "ref_doctype": "Email Queue"
+ },
+ {
+  "days": 7,
+  "docstatus": 0,
+  "doctype": "Logs To Clear",
+  "modified": "2024-07-11 05:33:59.840716",
+  "name": "fmnuvtbvqg",
+  "parent": "Log Settings",
+  "parentfield": "logs_to_clear",
+  "parenttype": "Log Settings",
+  "ref_doctype": "Scheduled Job Log"
+ },
+ {
+  "days": 7,
+  "docstatus": 0,
+  "doctype": "Logs To Clear",
+  "modified": "2024-07-11 05:33:59.840851",
+  "name": "fmnu3o4cps",
+  "parent": "Log Settings",
+  "parentfield": "logs_to_clear",
+  "parenttype": "Log Settings",
+  "ref_doctype": "Submission Queue"
+ },
+ {
+  "days": 14,
+  "docstatus": 0,
+  "doctype": "Logs To Clear",
+  "modified": "2024-07-11 05:33:59.840982",
+  "name": "fmnu440mhm",
+  "parent": "Log Settings",
+  "parentfield": "logs_to_clear",
+  "parenttype": "Log Settings",
+  "ref_doctype": "Prepared Report"
+ },
+ {
+  "days": 30,
+  "docstatus": 0,
+  "doctype": "Logs To Clear",
+  "modified": "2024-07-11 05:33:59.841111",
+  "name": "fmnunetc5c",
+  "parent": "Log Settings",
+  "parentfield": "logs_to_clear",
+  "parenttype": "Log Settings",
+  "ref_doctype": "Webhook Request Log"
+ },
+ {
+  "days": 30,
+  "docstatus": 0,
+  "doctype": "Logs To Clear",
+  "modified": "2024-07-11 05:33:59.841239",
+  "name": "fmnucqjgnv",
+  "parent": "Log Settings",
+  "parentfield": "logs_to_clear",
+  "parenttype": "Log Settings",
+  "ref_doctype": "Unhandled Email"
+ },
+ {
+  "days": 30,
+  "docstatus": 0,
+  "doctype": "Logs To Clear",
+  "modified": "2024-07-11 05:33:59.841368",
+  "name": "fmnuop0ae7",
+  "parent": "Log Settings",
+  "parentfield": "logs_to_clear",
+  "parenttype": "Log Settings",
+  "ref_doctype": "Reminder"
+ },
+ {
+  "days": 90,
+  "docstatus": 0,
+  "doctype": "Logs To Clear",
+  "modified": "2024-07-11 05:33:59.841511",
+  "name": "fmnuiakikk",
+  "parent": "Log Settings",
+  "parentfield": "logs_to_clear",
+  "parenttype": "Log Settings",
+  "ref_doctype": "Integration Request"
+ },
+ {
+  "days": 90,
+  "docstatus": 0,
+  "doctype": "Logs To Clear",
+  "modified": "2024-07-11 05:33:59.842772",
+  "name": "fmnufevkrg",
+  "parent": "Log Settings",
+  "parentfield": "logs_to_clear",
+  "parenttype": "Log Settings",
+  "ref_doctype": "Activity Log"
+ },
+ {
+  "days": 90,
+  "docstatus": 0,
+  "doctype": "Logs To Clear",
+  "modified": "2024-07-11 05:33:59.842915",
+  "name": "fmnui0bqca",
+  "parent": "Log Settings",
+  "parentfield": "logs_to_clear",
+  "parenttype": "Log Settings",
+  "ref_doctype": "Route History"
+ },
+ {
+  "days": 60,
+  "docstatus": 0,
+  "doctype": "Logs To Clear",
+  "modified": "2024-07-11 05:33:59.843043",
+  "name": "fmnue2rp8r",
+  "parent": "Log Settings",
+  "parentfield": "logs_to_clear",
+  "parenttype": "Log Settings",
+  "ref_doctype": "Repost Item Valuation"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "advance_booking_days": 7,
+  "agent_list": [],
+  "appointment_duration": 60,
+  "availability_of_slots": [],
+  "docstatus": 0,
+  "doctype": "Appointment Booking Settings",
+  "email_reminders": 0,
+  "enable_scheduling": 0,
+  "holiday_list": null,
+  "modified": "2024-07-10 10:26:18.068257",
+  "name": "Appointment Booking Settings",
+  "number_of_agents": 0,
+  "success_redirect_url": null
+ }
+]

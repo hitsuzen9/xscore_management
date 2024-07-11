@@ -1,0 +1,26 @@
+[
+ {
+  "access_token": null,
+  "api_endpoint": "https://quickbooks.api.intuit.com/v3",
+  "authorization_endpoint": "https://appcenter.intuit.com/connect/oauth2",
+  "authorization_url": "https://appcenter.intuit.com/connect/oauth2?response_type=code&client_id=None&scope=com.intuit.quickbooks.accounting&state=NUXnBE3RmNT6d0JaEnZWCY0fqPdgHB",
+  "client_id": null,
+  "client_secret": null,
+  "code": null,
+  "company": null,
+  "default_cost_center": null,
+  "default_shipping_account": null,
+  "default_warehouse": null,
+  "docstatus": 0,
+  "doctype": "QuickBooks Migrator",
+  "modified": "2024-07-10 10:26:18.275830",
+  "name": "QuickBooks Migrator",
+  "quickbooks_company_id": null,
+  "redirect_url": null,
+  "refresh_token": null,
+  "scope": "com.intuit.quickbooks.accounting",
+  "status": "Connecting to QuickBooks",
+  "token_endpoint": "https://oauth.platform.intuit.com/oauth2/v1/tokens/bearer",
+  "undeposited_funds_account": null
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "access_key_id": null,
+  "backup_files": 1,
+  "bucket": null,
+  "docstatus": 0,
+  "doctype": "S3 Backup Settings",
+  "enabled": 0,
+  "endpoint_url": "https://s3.amazonaws.com",
+  "frequency": "Daily",
+  "modified": "2024-07-10 10:24:36.170987",
+  "name": "S3 Backup Settings",
+  "notify_email": null,
+  "secret_access_key": null,
+  "send_email_for_successful_backup": 1
+ }
+]

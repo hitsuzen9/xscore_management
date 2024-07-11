@@ -1,0 +1,112 @@
+[
+ {
+  "abbr": "XS",
+  "attribute_value": "Extra Small",
+  "docstatus": 0,
+  "doctype": "Item Attribute Value",
+  "modified": "2024-07-10 09:28:34.592286",
+  "name": "pke9j0bfik",
+  "parent": "Size",
+  "parentfield": "item_attribute_values",
+  "parenttype": "Item Attribute"
+ },
+ {
+  "abbr": "RED",
+  "attribute_value": "Red",
+  "docstatus": 0,
+  "doctype": "Item Attribute Value",
+  "modified": "2024-07-10 09:28:34.600989",
+  "name": "pkeamkqg3d",
+  "parent": "Colour",
+  "parentfield": "item_attribute_values",
+  "parenttype": "Item Attribute"
+ },
+ {
+  "abbr": "S",
+  "attribute_value": "Small",
+  "docstatus": 0,
+  "doctype": "Item Attribute Value",
+  "modified": "2024-07-10 09:28:34.592286",
+  "name": "pke9r78cgp",
+  "parent": "Size",
+  "parentfield": "item_attribute_values",
+  "parenttype": "Item Attribute"
+ },
+ {
+  "abbr": "GRE",
+  "attribute_value": "Green",
+  "docstatus": 0,
+  "doctype": "Item Attribute Value",
+  "modified": "2024-07-10 09:28:34.600989",
+  "name": "pkea3uh78b",
+  "parent": "Colour",
+  "parentfield": "item_attribute_values",
+  "parenttype": "Item Attribute"
+ },
+ {
+  "abbr": "M",
+  "attribute_value": "Medium",
+  "docstatus": 0,
+  "doctype": "Item Attribute Value",
+  "modified": "2024-07-10 09:28:34.592286",
+  "name": "pke9kqmac0",
+  "parent": "Size",
+  "parentfield": "item_attribute_values",
+  "parenttype": "Item Attribute"
+ },
+ {
+  "abbr": "BLU",
+  "attribute_value": "Blue",
+  "docstatus": 0,
+  "doctype": "Item Attribute Value",
+  "modified": "2024-07-10 09:28:34.600989",
+  "name": "pkeauj5v3l",
+  "parent": "Colour",
+  "parentfield": "item_attribute_values",
+  "parenttype": "Item Attribute"
+ },
+ {
+  "abbr": "L",
+  "attribute_value": "Large",
+  "docstatus": 0,
+  "doctype": "Item Attribute Value",
+  "modified": "2024-07-10 09:28:34.592286",
+  "name": "pke98dabqe",
+  "parent": "Size",
+  "parentfield": "item_attribute_values",
+  "parenttype": "Item Attribute"
+ },
+ {
+  "abbr": "BLA",
+  "attribute_value": "Black",
+  "docstatus": 0,
+  "doctype": "Item Attribute Value",
+  "modified": "2024-07-10 09:28:34.600989",
+  "name": "pkeaeuau8o",
+  "parent": "Colour",
+  "parentfield": "item_attribute_values",
+  "parenttype": "Item Attribute"
+ },
+ {
+  "abbr": "XL",
+  "attribute_value": "Extra Large",
+  "docstatus": 0,
+  "doctype": "Item Attribute Value",
+  "modified": "2024-07-10 09:28:34.592286",
+  "name": "pke9cak6o4",
+  "parent": "Size",
+  "parentfield": "item_attribute_values",
+  "parenttype": "Item Attribute"
+ },
+ {
+  "abbr": "WHI",
+  "attribute_value": "White",
+  "docstatus": 0,
+  "doctype": "Item Attribute Value",
+  "modified": "2024-07-10 09:28:34.600989",
+  "name": "pkeaffgfre",
+  "parent": "Colour",
+  "parentfield": "item_attribute_values",
+  "parenttype": "Item Attribute"
+ }
+]

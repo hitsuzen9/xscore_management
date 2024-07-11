@@ -1,0 +1,101 @@
+[
+ {
+  "code": "EXW",
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Incoterm",
+  "modified": "2024-07-10 10:26:20.139738",
+  "name": "EXW",
+  "title": "Ex Works"
+ },
+ {
+  "code": "FCA",
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Incoterm",
+  "modified": "2024-07-10 10:26:20.141030",
+  "name": "FCA",
+  "title": "Free Carrier"
+ },
+ {
+  "code": "FAS",
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Incoterm",
+  "modified": "2024-07-10 10:26:20.142276",
+  "name": "FAS",
+  "title": "Free Alongside Ship"
+ },
+ {
+  "code": "FOB",
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Incoterm",
+  "modified": "2024-07-10 10:26:20.143516",
+  "name": "FOB",
+  "title": "Free On Board"
+ },
+ {
+  "code": "CPT",
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Incoterm",
+  "modified": "2024-07-10 10:26:20.144864",
+  "name": "CPT",
+  "title": "Carriage Paid To"
+ },
+ {
+  "code": "CIP",
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Incoterm",
+  "modified": "2024-07-10 10:26:20.146052",
+  "name": "CIP",
+  "title": "Carriage and Insurance Paid to"
+ },
+ {
+  "code": "CFR",
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Incoterm",
+  "modified": "2024-07-10 10:26:20.147244",
+  "name": "CFR",
+  "title": "Cost and Freight"
+ },
+ {
+  "code": "CIF",
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Incoterm",
+  "modified": "2024-07-10 10:26:20.148420",
+  "name": "CIF",
+  "title": "Cost, Insurance and Freight"
+ },
+ {
+  "code": "DAP",
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Incoterm",
+  "modified": "2024-07-10 10:26:20.149593",
+  "name": "DAP",
+  "title": "Delivered At Place"
+ },
+ {
+  "code": "DPU",
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Incoterm",
+  "modified": "2024-07-10 10:26:20.150783",
+  "name": "DPU",
+  "title": "Delivered At Place Unloaded"
+ },
+ {
+  "code": "DDP",
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Incoterm",
+  "modified": "2024-07-10 10:26:20.151963",
+  "name": "DDP",
+  "title": "Delivered Duty Paid"
+ }
+]

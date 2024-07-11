@@ -1,0 +1,22 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Email Unsubscribe",
+  "email": "admin@example.com",
+  "global_unsubscribe": 1,
+  "modified": "2024-07-10 09:28:44.565040",
+  "name": "pkhdunm8k3",
+  "reference_doctype": null,
+  "reference_name": null
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Email Unsubscribe",
+  "email": "guest@example.com",
+  "global_unsubscribe": 1,
+  "modified": "2024-07-10 09:28:44.610136",
+  "name": "pkhedtood3",
+  "reference_doctype": null,
+  "reference_name": null
+ }
+]

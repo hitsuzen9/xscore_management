@@ -1,0 +1,94 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Log Settings",
+  "logs_to_clear": [
+   {
+    "days": 14,
+    "parent": "Log Settings",
+    "parentfield": "logs_to_clear",
+    "parenttype": "Log Settings",
+    "ref_doctype": "Error Log"
+   },
+   {
+    "days": 30,
+    "parent": "Log Settings",
+    "parentfield": "logs_to_clear",
+    "parenttype": "Log Settings",
+    "ref_doctype": "Email Queue"
+   },
+   {
+    "days": 7,
+    "parent": "Log Settings",
+    "parentfield": "logs_to_clear",
+    "parenttype": "Log Settings",
+    "ref_doctype": "Scheduled Job Log"
+   },
+   {
+    "days": 7,
+    "parent": "Log Settings",
+    "parentfield": "logs_to_clear",
+    "parenttype": "Log Settings",
+    "ref_doctype": "Submission Queue"
+   },
+   {
+    "days": 14,
+    "parent": "Log Settings",
+    "parentfield": "logs_to_clear",
+    "parenttype": "Log Settings",
+    "ref_doctype": "Prepared Report"
+   },
+   {
+    "days": 30,
+    "parent": "Log Settings",
+    "parentfield": "logs_to_clear",
+    "parenttype": "Log Settings",
+    "ref_doctype": "Webhook Request Log"
+   },
+   {
+    "days": 30,
+    "parent": "Log Settings",
+    "parentfield": "logs_to_clear",
+    "parenttype": "Log Settings",
+    "ref_doctype": "Unhandled Email"
+   },
+   {
+    "days": 30,
+    "parent": "Log Settings",
+    "parentfield": "logs_to_clear",
+    "parenttype": "Log Settings",
+    "ref_doctype": "Reminder"
+   },
+   {
+    "days": 90,
+    "parent": "Log Settings",
+    "parentfield": "logs_to_clear",
+    "parenttype": "Log Settings",
+    "ref_doctype": "Integration Request"
+   },
+   {
+    "days": 90,
+    "parent": "Log Settings",
+    "parentfield": "logs_to_clear",
+    "parenttype": "Log Settings",
+    "ref_doctype": "Activity Log"
+   },
+   {
+    "days": 90,
+    "parent": "Log Settings",
+    "parentfield": "logs_to_clear",
+    "parenttype": "Log Settings",
+    "ref_doctype": "Route History"
+   },
+   {
+    "days": 60,
+    "parent": "Log Settings",
+    "parentfield": "logs_to_clear",
+    "parenttype": "Log Settings",
+    "ref_doctype": "Repost Item Valuation"
+   }
+  ],
+  "modified": "2024-07-11 05:33:59.823874",
+  "name": "Log Settings"
+ }
+]

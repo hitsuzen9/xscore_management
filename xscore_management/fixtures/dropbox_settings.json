@@ -1,0 +1,19 @@
+[
+ {
+  "app_access_key": null,
+  "app_secret_key": null,
+  "backup_frequency": "",
+  "docstatus": 0,
+  "doctype": "Dropbox Settings",
+  "dropbox_access_token": null,
+  "dropbox_refresh_token": null,
+  "enabled": 0,
+  "file_backup": 1,
+  "limit_no_of_backups": 0,
+  "modified": "2024-07-10 10:24:36.111169",
+  "name": "Dropbox Settings",
+  "no_of_backups": 5,
+  "send_email_for_successful_backup": 1,
+  "send_notifications_to": null
+ }
+]

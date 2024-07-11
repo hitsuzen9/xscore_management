@@ -1,0 +1,11 @@
+[
+ {
+  "api_key": null,
+  "api_secret": null,
+  "docstatus": 0,
+  "doctype": "Push Notification Settings",
+  "enable_push_notification_relay": 0,
+  "modified": "2024-07-10 10:24:35.808371",
+  "name": "Push Notification Settings"
+ }
+]

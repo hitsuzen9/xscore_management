@@ -1,0 +1,22 @@
+[
+ {
+  "address_line1": null,
+  "address_line2": null,
+  "address_title": null,
+  "city": null,
+  "country": null,
+  "docstatus": 0,
+  "doctype": "Contact Us Settings",
+  "email_id": null,
+  "forward_to_email": null,
+  "heading": null,
+  "introduction": null,
+  "modified": "2024-07-10 10:24:36.377507",
+  "name": "Contact Us Settings",
+  "phone": null,
+  "pincode": null,
+  "query_options": null,
+  "skype": null,
+  "state": null
+ }
+]

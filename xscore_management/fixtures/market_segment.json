@@ -1,0 +1,23 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Market Segment",
+  "market_segment": "Lower Income",
+  "modified": "2024-07-10 09:28:34.770497",
+  "name": "Lower Income"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Market Segment",
+  "market_segment": "Middle Income",
+  "modified": "2024-07-10 09:28:34.774616",
+  "name": "Middle Income"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Market Segment",
+  "market_segment": "Upper Income",
+  "modified": "2024-07-10 09:28:34.776072",
+  "name": "Upper Income"
+ }
+]

@@ -1,0 +1,13 @@
+[
+ {
+  "company": "RTe",
+  "default_account": "Cash - R",
+  "docstatus": 0,
+  "doctype": "Mode of Payment Account",
+  "modified": "2024-07-10 09:28:38.333148",
+  "name": "pkffs69qo9",
+  "parent": "Cash",
+  "parentfield": "accounts",
+  "parenttype": "Mode of Payment"
+ }
+]

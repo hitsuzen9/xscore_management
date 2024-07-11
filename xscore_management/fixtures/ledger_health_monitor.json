@@ -1,0 +1,13 @@
+[
+ {
+  "companies": [],
+  "debit_credit_mismatch": 0,
+  "docstatus": 0,
+  "doctype": "Ledger Health Monitor",
+  "enable_health_monitor": 0,
+  "general_and_payment_ledger_mismatch": 0,
+  "modified": "2024-07-10 10:26:17.451234",
+  "monitor_for_last_x_days": 60,
+  "name": "Ledger Health Monitor"
+ }
+]

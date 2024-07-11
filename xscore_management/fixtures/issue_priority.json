@@ -1,0 +1,23 @@
+[
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Issue Priority",
+  "modified": "2024-07-10 09:28:34.617237",
+  "name": "Low"
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Issue Priority",
+  "modified": "2024-07-10 09:28:34.620348",
+  "name": "Medium"
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Issue Priority",
+  "modified": "2024-07-10 09:28:34.621874",
+  "name": "High"
+ }
+]

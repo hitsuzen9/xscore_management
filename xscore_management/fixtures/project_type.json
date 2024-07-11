@@ -1,0 +1,26 @@
+[
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Project Type",
+  "modified": "2024-07-10 09:28:34.716956",
+  "name": "Internal",
+  "project_type": "Internal"
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Project Type",
+  "modified": "2024-07-10 09:28:34.720804",
+  "name": "External",
+  "project_type": "External"
+ },
+ {
+  "description": null,
+  "docstatus": 0,
+  "doctype": "Project Type",
+  "modified": "2024-07-10 09:28:34.722716",
+  "name": "Other",
+  "project_type": "Other"
+ }
+]

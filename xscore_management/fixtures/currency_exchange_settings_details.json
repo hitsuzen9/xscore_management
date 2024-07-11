@@ -1,0 +1,24 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Currency Exchange Settings Details",
+  "key": "base",
+  "modified": "2024-07-10 10:26:19.860324",
+  "name": "pj46gjd0sn",
+  "parent": "Currency Exchange Settings",
+  "parentfield": "req_params",
+  "parenttype": "Currency Exchange Settings",
+  "value": "{from_currency}"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Currency Exchange Settings Details",
+  "key": "symbols",
+  "modified": "2024-07-10 10:26:19.860564",
+  "name": "pj46nlr2m3",
+  "parent": "Currency Exchange Settings",
+  "parentfield": "req_params",
+  "parenttype": "Currency Exchange Settings",
+  "value": "{to_currency}"
+ }
+]

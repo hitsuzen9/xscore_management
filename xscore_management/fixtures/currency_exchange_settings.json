@@ -1,0 +1,44 @@
+[
+ {
+  "access_key": null,
+  "api_endpoint": "https://frankfurter.app/{transaction_date}",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Currency Exchange Settings",
+  "modified": "2024-07-10 10:26:19.853505",
+  "name": "Currency Exchange Settings",
+  "req_params": [
+   {
+    "key": "base",
+    "parent": "Currency Exchange Settings",
+    "parentfield": "req_params",
+    "parenttype": "Currency Exchange Settings",
+    "value": "{from_currency}"
+   },
+   {
+    "key": "symbols",
+    "parent": "Currency Exchange Settings",
+    "parentfield": "req_params",
+    "parenttype": "Currency Exchange Settings",
+    "value": "{to_currency}"
+   }
+  ],
+  "result_key": [
+   {
+    "key": "rates",
+    "parent": "Currency Exchange Settings",
+    "parentfield": "result_key",
+    "parenttype": "Currency Exchange Settings"
+   },
+   {
+    "key": "{to_currency}",
+    "parent": "Currency Exchange Settings",
+    "parentfield": "result_key",
+    "parenttype": "Currency Exchange Settings"
+   }
+  ],
+  "service_provider": "frankfurter.app",
+  "url": null,
+  "use_http": 0
+ }
+]
